@@ -18,6 +18,14 @@ Additionally, an embedding-based approach for automatic data labeling error dete
 * [Experimental Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/experimental_results)
 * [Labeling Error Analysis Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/error_analysis)
 
+## Experimental settings
+
+The hyperparameters were fixed as follows: `BATCH_SIZE := 16`, `MAX_LEN := 128`, `EPOCHS := 8` (with early stopping on not minimizing loss with `PATIENCE := 1`). 
+Each set of the experiments was repeated 5 times and standard error of the averaged results was calculated. 
+The experiments were executed on a server with the following characteristics: `GPU: 2x Tesla V100 SXM2 32 GB`, `CPU: 96x Intel(R) Xeon(R) Platinum 8268 CPU @ 2.90GHz`, and `RAM: 1.6 TB`. 
+Average training time in seconds is 2045, 2130, and 1090 -- for each model respectively. 
+Average inference time in seconds is 17, 19, and 10 -- for each model respectively.
+
 ## Cite
 
 TBD
