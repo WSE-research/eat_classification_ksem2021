@@ -14,9 +14,9 @@ Additionally, an embedding-based approach for automatic data labeling error dete
 ## Quick Links
 
 * Full Paper (TBD)
-* [Derived Datasets for Expected Answer Type classification]()
-* [Experimental Results]()
-* [Labeling Error Analysis Results]()
+* [Derived Datasets for Expected Answer Type classification](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/UnifiedSubclassDBpedia)
+* [Experimental Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/experimental_results)
+* [Labeling Error Analysis Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/error_analysis)
 
 ## Cite
 
