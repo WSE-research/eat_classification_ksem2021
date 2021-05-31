@@ -1,0 +1,106 @@
+question;label;suggested
+what did james madison wrote?;Place;Work
+what does the letters eu stand for?;Place;String
+what each fold of the us flag means?;Place;Flag
+what else is there in orlando besides disney?;Place;Activity
+what is illinois state bird?;Place;Species
+what is the state motto of massachusetts?;Place;String
+what primary school did sir isaac newton go to?;Place;Agent
+what school did bill gates go to?;Place;Agent
+what school did cam newton go to before auburn?;Place;Agent
+what school did kurt vonnegut go to?;Place;Agent
+what school did martin luther king jr attend?;Place;Agent
+what school did michael jackson attend?;Place;Agent
+what school did tupac go to?;Place;Agent
+what school does bart simpson go to?;Place;Agent
+what schools did barack obama attend?;Place;Agent
+what time zone am i in cleveland ohio?;Place;DateTime
+where did bernie madoff work?;Place;Agent
+where is the time zone in kentucky?;Place;DateTime
+who helped china in ww2?;Place;EthnicGroup
+who speaks farsi?;Place;EthnicGroup
+who was real housewives brandi married to?;Place;Agent
+what years did jackie robinson play baseball?;DateTime;TimePeriod
+what years did the atlanta braves win the world series?;DateTime;TimePeriod
+what years did the knicks win the championship?;DateTime;TimePeriod
+what years did the orioles play in the world series?;DateTime;TimePeriod
+what years did the red sox win the world series?;DateTime;TimePeriod
+what years have the cubs been in the world series?;DateTime;TimePeriod
+what years have the dodgers won the world series?;DateTime;TimePeriod
+what years have the steelers won the super bowl?;DateTime;TimePeriod
+what years did yankees win championships?;DateTime;TimePeriod
+what are major exports of the usa?;Agent;List
+what are the most common religions in the united states?;Agent;EthnicGroup
+what boudicca do?;Agent;Work
+what color is miley cyrus red hair?;Agent;Colour
+what did florence sabin do?;Agent;Work
+what did george steinbrenner do?;Agent;Work
+what did hitler do bad?;Agent;Medicine
+what did maria theresa rule?;Agent;Event
+what did robert koch do?;Agent;Work
+what did ronnie radke do?;Agent;Work
+what did samuel de champlain?;Agent;TopicalConcept
+what did the harlem renaissance created?;Agent;Work
+what do the islamic believe?;Agent;EthnicGroup
+what does andy warhol do?;Agent;Work
+what does jennifer lopez do?;Agent;Work
+what does julian clary do?;Agent;Work
+what does the name austin stand for?;Agent;String
+what does the name rome mean?;Agent;TopicalConcept
+what does the term prima donna mean?;Agent;String
+what does time warner own?;Agent;Work
+what does uvm stand for college?;Agent;String
+what form of government do we have in the usa?;Agent;TopicalConcept
+what form of government is israel?;Agent;TopicalConcept
+what inspired langston hughes to write poetry?;Agent;Event
+what is anderson cooper?;Agent;Work
+what is medicare a?;Agent;Medicine
+what is paige halliwell's powers?;Agent;Disease
+what is st mary mascot?;Agent;Device
+what is the religion of israel people?;Agent;EthnicGroup
+what is the syracuse university mascot?;Agent;Device
+what is wentworth miller in?;Agent;Work
+what religion does tom cruise follow?;Agent;EthnicGroup
+what religions are found in australia?;Agent;EthnicGroup
+what type of government is the philippines?;Agent;TopicalConcept
+what was matthias schleiden known for?;Agent;Medicine
+what was nelson mandela's religion?;Agent;EthnicGroup
+what was sherlock holmes famous for?;Agent;Work
+where did drew stanton play in college?;Agent;Work
+where did james franco study acting?;Agent;Place
+where does fabio aurelio play?;Agent;Work
+what is julia gillard famous for?;Agent;Work
+what was gregor mendel known for?;Agent;Work
+what atom did j.j thomson discover?;TopicalConcept;Work
+what contribution did maurice wilkins make to dna?;TopicalConcept;Work
+what did george eastman make?;TopicalConcept;Work
+what did harriet beecher stowe do as an abolitionist?;TopicalConcept;Work
+what made angela davis famous?;TopicalConcept;Work
+what was elijah mccoy famous for?;TopicalConcept;Work
+what was henry ford best known for?;TopicalConcept;Work
+what was irving langmuir famous for?;TopicalConcept;Work
+where does kenya moore get her money?;TopicalConcept;Currency
+what style of music did jimi hendrix play?;Work;TopicalConcept
+what style of music did louis armstrong play?;Work;TopicalConcept
+what type of music did vivaldi write?;Work;TopicalConcept
+what type of music does ella fitzgerald sing?;Work;TopicalConcept
+what type of music is scott joplin?;Work;TopicalConcept
+what type of music is tchaikovsky?;Work;TopicalConcept
+what type of music was scott joplin noted for?;Work;TopicalConcept
+what is the currency in the dominican republic called?;String;Currency
+what is the currency name of china?;String;Currency
+what is the dollar called in brazil?;String;Currency
+what is the money of argentina called?;String;Currency
+what is the name of book written by helen keller?;String;Work
+what is the name of dawn french's first novel?;String;Work
+what is the name of the money used in spain?;String;Currency
+what was the name of the newspaper where hemingway wrote?;String;Work
+what are some places to visit in new york?;Activity;Place
+what did john williams play?;Activity;Work
+what did jordyn wieber win gold for?;Activity;Medicine
+what to see and do in malta?;Activity;Place
+who is ruling tunisia now?;Activity;Agent
+what date did the san francisco giants win the world series?;Award;DateTime
+what nationality is jermaine paul?;EthnicGroup;Place
+what nationality is zack de la rocha?;EthnicGroup;Place
+what did rob kardashian get surgery for?;Disease;AnatomicalStructure

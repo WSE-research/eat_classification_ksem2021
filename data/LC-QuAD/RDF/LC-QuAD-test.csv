@@ -1,0 +1,979 @@
+question,questionText,type
+urn:LCQuAD:id:1136,For which games are Sam Loyd and Eric Schiller both famous?,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:793,What sports can be played in Kharghar's schools,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:2635,What sports are played in schools where Swahili is the official language?,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:2482,What sport played at Islamic azad uni employes Craig Van Tilbury?,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:301,What is Jon Speelman famous for?,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:2931,Which sport at Polytechnic University of the Philippines Taguig is the field of Jon speelman ?,http://dbpedia.org/ontology/Activity
+urn:LCQuAD:id:285,In which state is the Channel district?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3389,What is the route end of Birmingham and Oxford Junction Railway ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:722,Where did the Vitis Vinifera grapes originate?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4366,What is the river whose source is Lake Ontario?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2262,Whichlocation city of the Denver Broncos is the palce of birth of Steven Clark Cunningham ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1203,Name the rivers who originate from Essex?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1990,Companies founded in Taiwan have typically which divisions?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4102,Name the nearest city to David W. Brown House ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2687,Name the country with currency as Aureus ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3874, Giuseppe Bertello and Pietro Parolin are leaders of which place ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1332,Through which cities do the rivers starting at the Montauk State Park flow?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4469,Which country's leader  is Giuseppe Bertello?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2188,Where was Sino-French War fought ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2371,What is the hometown of the residents of Martha's vineyards?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1254,List the served region of the organisations of Trade association.,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2151,Where does the river begin whose left tributary is Krapanski Potok?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1997,Name the source of Raa ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2449,In which country is Sierra del Merendin?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2136,"What is on the border of the places which fall under crook county municipality, oregon?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4485,In which city is the sister station of KTXY located ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2397,"Where are all the protected areas near Bend, Oregon?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3514,Name the loocation of Lekh Castle which is also the location of SamurAbsheron channel ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4188,What city was recorded in Live in detroit which is also the official residence of ken Holland ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3177,Food in which countries has shallot in it?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:223,Name the largest city in the county where there is a Cy-Fair High School.,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1353,"Name the river with source country in Zambia and source region as North-Western Province, Zambia?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3284,In which places do companies founded in Newcastle operate?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:133,In which time zone is Pong Pha?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:504,What honours did Reigh Count receive?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4268,"Name the local authority of Trinity School, Brentwood ?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3236,What are the binomial authority of Menetries's warbler?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2782,What is the sovereign state of the Dafydd Benfras where Jasmine Lowson is also citizen of ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1122,What are the reason served by Toll Global Express which is also the country of LPGA ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2786,List the territory of Tonkin Campaign ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4950,What are the regions in which the distributor of Secrets and Lies serves ? ,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2082,In which states does the river flow whose left tributary is Toms Creek?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4639,Where did the war take place where one of the commander was Zuo Zongtang?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4725,"Under which common jurisdiction do Trinity School, Brentwood and Buckhurst Hill County High School fall?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4070,What is the origin of Xynisteri?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:116,"Where was Live in Detroit, MI recorded ?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:830,Which successor of Philippine Ports Authority is the state of origin of Ruben J. Villote ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3854,What is the launch site of Aquarius (rocket) ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2701,Where is Denver Broncos located ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:154,Raymond Johansen is the mayor of what city?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4642,What is the name of the homeground of football team Panionios G.S.S.?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1693,What is the district of Methodist Central Hall Westminster ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4565,Where did the conflict take place where Louis Briere de I'Isle was a commander?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2869,what kind of things play on WBIG FM?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2557,What is the citizenship of Saima Chowdhury?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4723,Through which states do the rivers flow which join in the republican river from the left?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3991,Give me the home town of all musical artists who uses Guitar as instrument ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3219,"Which ceremonial County of the East Tilbury is also the local authority of the Trinity School, Brentwood?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3397,Which region of Bannock is the origin od Spaghetti squash ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1733,What is the government type of Ancient Rome ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:854,What is the home ground of the clubs managed by Ciao Zanardi?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4737,What is the country with native language as Languages of Ethiopia?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4659,List the  outflow of Lake Uniamsi?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:663,Tirana is the largest city of which country?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4779,From which countries are the people from who are an academic authority of the Western pygmy blue species?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4744,What is the launch site of the Juno I which was also the ground of 2016 Fort Lauderdale Strikers season ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1597,Whose leaders are Willem-Alexander and Fredis Refunjol?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2729,Horses grandsired by Sundridge  have won which awards?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4488,Where do the rivers starting from Zambia end?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4598,Name the route end of the North-South Transport Corridor and Mumbai Vadodara Expressway?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4514,Name the city of Phil-Ellena ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4859,To which city does Northeast Library belong?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1016,Name the river whose mouth mountain is Southend-on-Sea and mouth place is Essex?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:4911,Giorgos Kaminis is the mayor of what?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:474,Where do current famous NatGeo photographers live?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2391,"What nation is Hornito located in, where Jamie Bateman Cayn died too?",http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:1685,Name the resting place of Fazlur Rahman Khan ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:2919,what cities are close by LoDaisKa ?,http://dbpedia.org/ontology/Place
+urn:LCQuAD:id:3446,"What is the official language of Ladonia, which is the target area of Probus Journal?",http://dbpedia.org/ontology/Language
+urn:LCQuAD:id:2079,What is the almamater of the president whose vice president was Enrique Jos Varona?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3212,Give the name of the  managers of England national under-20 football team and England national under-21 football team?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:284,Greater Napanee is the home town of what people?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4852,"to which university did both, the Stanford Cardinal and Gerald Reaven go?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4742,Which artists trained in San Francisco Art Institute?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:938,What is the owning organisation of the Ford Kansas City Assembly Plant and also the builder of the Ford Y-block engine?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4564,Who wrote the musical whose composer is Emil Dean Zoghby?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2872,Who wrote the subsequent work of One Day at a Time (Em's Version) ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3417,Who are the architect of the stadium whose one of the architect is louis D. Astorino ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3476,Who are the astronauts associated with NASA?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3368,To which american football teams does the Heinz Field serve as home stadium?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:603,"Give me all commanders which had an important role in both, the Battle of Fort Stephenson and Battle of the Thames?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1639,List out the people who are related to the relatives of Jared Kushner ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4612,Who did Daniel Gibson marry?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4432,Name the team manger of Middlebrough F.C season 2006-07 ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1865,"Who was the coach of marquette Golden Eagles men's basketball team-2012,13 season ?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1248,Name the directors of Lennon Legend: The Very Best of John Lennon (DVD) ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:992,What is the alma mater of the scientist who is known for Rational analysis ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1065,Which is the university of Vanderbilt Commodores ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:77,Who is the person that first ascented the Cathedral Peak and Mount Hoffmann?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4372,Where was  William Anthony  trained ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4027,VP-8 and VP-10 shares which command structure ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3490,What are the central characters in spy kids series?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2958,who owns the ship Victoria?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:117,who all have been a manager of english under twenty one football team?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1603,What are the airlines whose hub airport is operated by the Los Angeles World Airports?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3596,Who directed The Haunted House ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1296,"The players born in Bellaire, Ohio have played for which team?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4481,who are starring in the movies written by Mark Sandrich ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:525,Name the debut team of Dan Otero ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:638,Who founded the Not on our Watch NGO?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2766,Which company owns Sony bank ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2296,Name the office holder with associate as Marcus Calpurnius Bibulus and has a kid named Augustus?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:523,What is the company to which Fusajiro Yamauchi proprietor to ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4338,What are some musical artists associated with the ones signed up with EMI?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1906,Who is the narrator of The Price of Beauty ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3823,Who is the producer of the device which is the operating system of Now TV  ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1329,List the agencies located someplace lead by Alex Chalk.,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:235,What is the leader name of the settlements whose governing body is Municipal council?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1984,List the companies operating in Australia?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1460,Who all have developed softwares for Unix Like OSes?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1668,What are some party leaders of the parties which have had a seat in Berlin?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:404,Which tenant of New Sanno Hotel is the military branch of the Gary Holder-Winfield ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1838,Which driver had the pole position in 1994 Spanish Grand Prix ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1145,Name the partners of Kelly Brook?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2933,Which senator served in military units VMF-155 and VMF-218?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2105,"Which music band made Take Me There, and to which Tedd Riley was associated?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3522,Name the president of Wyche Fowler ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4186,To which educational institute does Cornell University Press belong to?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2938,Give me list of people who were the first to climb a peak in the Yosemite park?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4491,What is Naval Support Activity Naples a part of?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3851,Who was the voice actor of allen walker also gave voice to kimihiro watanuki?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2967,For which teams did Ryan Powell play for?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:616,list some companies founded by Jim Harris.,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1348,Name some basketball players who  have played for chicago bulls?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2294,Who won the silver medal when the bronze was won by Yang Yilin?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:559,Who is the owner of Saumarez ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:512,Who is the fictional character whose relative is Vestigial Peter?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1664,Name the alma mater of Ernest de Saisset ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:740,Name all the bands which have members of QDT in them.,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4364,Who is considered to be the deciding person when it comes to crustaceans from the Balanidae family?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1715,What are the players whose former teams are Carolina Panthers and Indianapolis Colts?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3736,Who is associated  with the musical artists from Africa '70 (band) and Tony Allen ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2368,"What is the university to which Erica Frank went, and where Ivan Toplak was a club manager?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:524,Who is the performer of the album whose subsequent work is Willie Nelson and Family ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:190,Which researchers received fellowship from Royal Society?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1139,Which president of United States had vice president as John Adams?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:606,What is the commander of Battle of Brownstown ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4820,What company is the one which wrote the google web toolkit and PlayN?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2565,Which are the  automobile platform whose one of the automobile platform is Dodge ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:225,Name the common associate band of Blayse and Teddy Riley ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2485,Whose military units are VMF-218 and VMF-155?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1045,Who develops the computation platform of Microsoft Expression Encoder ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3791,Quebec born ice hockey players have stopped playing for which teams?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1445,Which team has had both Martin prochzka and garry unger as its players ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1682,List all binomial authority of the insects whose one of the  binomial authority is douard Mntries?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2056,What is the military unit whose command structures are United States Department of the Navy and United States Department of Defense?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4927,Where did the members of judge advocate general corps study?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:262,Which executive producer of the ultimate merger is also an important person at Trump Productions?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2385,Who is the owner of  Latvian Wikipedia and Wiktionary ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:488,Name the common university of the Cardinal and Jim Wylie?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1843,What is the automobile platform of Chiva bus ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1734,Who are the animator of The Skeleton Dance?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:146,What system is both a platform where Nord runs and also distributed The beauty inside?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1794,Name the parent company of  Ford Air Transport Service ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2511,"Who  has these major shrines  : Emmitsburg, Maryland and Shrine of St. Elizabeth Ann Bayley Seton?",http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:197,To whom was Tessa Dahl born to?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4218,What are some people born in NY known for?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2160,List the people with Scientology as their religious belief?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3304,List the universities from a country where Norwegian language is officially accepted.,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4912,Name the incumbent of Linda Jenness ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1663,Which common prime minister did Graham Richardson and Bon McMullan serve ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3060,Give me someone on the board of trinity house?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1678,What is the baseball team whose club manager's debut team is Houston Astros?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4493,Who was member of boards at Royal Society and Trinity House?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2773,who was the president under whom winston bryant served as a lieutenant?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2454,Which teams have used the stadium whose architect was Populous ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2695,Which airlines fly to Gimhae International Airport?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2027,GetTV is owned by which organisation?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:379,Whos a famous relative of anne spielberg?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:3342,Who is the leader of Allgemeine SS ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4297,Which fictional character portrayed in Terminator 2: Judgment Day is painted by Josh Friedman?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:1363,Under which president did the predecessor of Simon Ferro work?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2612,Name  some ww1 veterans?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2747,Name the institute of Alton Ochsner ?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:4426,Who is  venerated in  Judaism and Islam?,http://dbpedia.org/ontology/Agent
+urn:LCQuAD:id:2861,What is a common ingredient used in boyt Blodpalt and Kaszanka ?,http://dbpedia.org/ontology/AnatomicalStructure
+urn:LCQuAD:id:419,List the ingredient of Blodpalt ?,http://dbpedia.org/ontology/AnatomicalStructure
+urn:LCQuAD:id:3600,what awards have been given to A. Peter Dewey?,http://dbpedia.org/ontology/Award
+urn:LCQuAD:id:4398,List the award which have been won by both Charles LeMaire and Nick Park ?,http://dbpedia.org/ontology/Award
+urn:LCQuAD:id:119,What awards have been won by the executive producer of Timmy Time ?,http://dbpedia.org/ontology/Award
+urn:LCQuAD:id:1604,What is used as money for French Southern and Antarctic Lands is also the  product of the Karafarin Bank ?,http://dbpedia.org/ontology/Currency
+urn:LCQuAD:id:1573,What is the currency of Kerguelen Islands ?,http://dbpedia.org/ontology/Currency
+urn:LCQuAD:id:4300,What is the base currency of the country which operates the Marion Dufresne?,http://dbpedia.org/ontology/Currency
+urn:LCQuAD:id:4986,Which currency can I use both in Kerguelen islands and French southern and antarctic lands?,http://dbpedia.org/ontology/Currency
+urn:LCQuAD:id:1267,What currencies have been prevalent in the country whose national anthem is La Marseillaise?,http://dbpedia.org/ontology/Currency
+urn:LCQuAD:id:4285,What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies?,http://dbpedia.org/ontology/Device
+urn:LCQuAD:id:953,What is the appliance which uses the central processing unit manufactured by Marvell Technology Group?,http://dbpedia.org/ontology/Device
+urn:LCQuAD:id:732,Which technological products were manufactured by Foxconn?,http://dbpedia.org/ontology/Device
+urn:LCQuAD:id:3876,How did the child of Stevens T. Mason die?,http://dbpedia.org/ontology/Disease
+urn:LCQuAD:id:1155,What disease led to the demise of Letitia MacTavish Hargrave and Martino Martini ?,http://dbpedia.org/ontology/Disease
+urn:LCQuAD:id:3354,What did Steven T Mason's father die from?,http://dbpedia.org/ontology/Disease
+urn:LCQuAD:id:4298,What is the common ethnicity of the Maike Evers and Francisco Lachowski ?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:2524,Relatives of Moses used to follow which religions?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:3643,What is the religion of the ones in the Kampuchean Union of Salvation?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:1722,What ethinicity of Linda Hogan is also the state of origin of Holmes Colbert ?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:3993,What are the airline hubs of Cascade Airways?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:337,What is the life stance of the ethnic groups related to Micronesia ?,http://dbpedia.org/ontology/EthnicGroup
+urn:LCQuAD:id:645,What is the military conflict whose commanders are John McEwen and Phm Vn ng?,http://dbpedia.org/ontology/Event
+urn:LCQuAD:id:4536,Whose commanders are John Mc Ewen and Park Chunghee?,http://dbpedia.org/ontology/Event
+urn:LCQuAD:id:4107,List all the awards won by the artist who has won SIGGRAPH ?,http://dbpedia.org/ontology/Event
+urn:LCQuAD:id:3877,What is the faith of Kwai Chang Caine ?,http://dbpedia.org/ontology/Food
+urn:LCQuAD:id:3512,What is the colour of Xocolatlite ?,http://dbpedia.org/ontology/Food
+urn:LCQuAD:id:2061,Which are the predecessor of Chevrolet Caprice?,http://dbpedia.org/ontology/MeanOfTransportation
+urn:LCQuAD:id:3644,"List the employments of people who died in Tampa, Florida.",http://dbpedia.org/ontology/PersonFunction
+urn:LCQuAD:id:1944,What are some orthonychidae birds?,http://dbpedia.org/ontology/Species
+urn:LCQuAD:id:1214,Which bacteria's taxonomic class is Bacilli?,http://dbpedia.org/ontology/Species
+urn:LCQuAD:id:4731,List the mammals whose taxonomy is Diprotodontia and phylum is Chordate?,http://dbpedia.org/ontology/Species
+urn:LCQuAD:id:991,What are some apes?,http://dbpedia.org/ontology/Species
+urn:LCQuAD:id:3798,What genre's softwares are released with a GNU GPL license?,http://dbpedia.org/ontology/TopicalConcept
+urn:LCQuAD:id:341,What is the magazine which have been  founded by Ralph J. Gleason?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4567,what has been developed by John Fanning?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4665,Which shows are from a company whose subsidiary is Viacom Productions?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:827,What is the television show whose executive producer is Douglas Netter?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3421,Which notable series of Russell T Davies is also the series of Short Trips: A day in the life ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4828,which movies have been published by Cinema International Corporation?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2128,Where Everybody knows you is the theme album of which show ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2122,What are the movies whose music composer uses a Hammond organ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4521,Which company has developed games whose music is done by Gerard Marino?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4869,What developed EMMS?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:1958,What is the television show whose related with  Doctor Who Confidential?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2923,List the softwares which runs on Microsoft Windows and has license as Software as a service?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:1324,What are some software which are written in languages that are run on Unix like OS?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4330,"Give me all magazines whose founder died in Berkeley, California?",http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3952,Who composed the episode after which came Butter's Very own Episode?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2326,List the software developed by Shawn Fanning ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:412,List the newspapers whose offices are situated in 1211 Avenue of the Americas?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:851,What novels are belong to the genre of Utopian and dystopian fiction?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3546,What are the movies written by Nick Castle?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3356,What made jo garcia and merritt cabal both famous?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3124,List all the notable works of  Russell T Davies?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:3261,Who is the music composer of Kenny Dies ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:1218,List the movies whose cast member were born in Scotland.,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:4067,What are the television shows whose company is owned by Viacom?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2811,Whose creators are Jerry Seinfeld and Larry David?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:1707,What is the television show whose channel's parent organisation is Fox Sports?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:1636,Give me some shows owned by BBC one and BBC hd?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:2047,What movies have been written by authors of Monty Python ?,http://dbpedia.org/ontology/Work
+urn:LCQuAD:id:987,Is Peter Piper Pizza in the pizza industry?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3495,Is William H Blanchard buried in Colorado?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4579,is blue lagoon island a part of the bahamas achipelago?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2608,Did the New Way party merge in the One Israel party?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3701,Is Seattle the Ship builder of USS Marmora (IX-189)?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:147,Is Tirana the largest city of Albania?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:62,Is Ombla originate in Croatia?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:24,Did Timm Gunn guest in Sunrise (HIMYM)?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3208,Was Don't Bring Me Down recorded in West Germany?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4021,Is Henry David Thoreau interested in Politics?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2935,Does the Ontario International Airport serve the Inland Empire?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3531,Is semnani one of the languages spoken in Iran?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4795,Was John muir one of the first to ascend a mountain on Mt hoffmann?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2674,Was John Boehner the winner of the US House of Representatives elections in Ohio in 2010?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:477,Is Hyundai Lavita assembled in Malaysia?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3110,Is the Hyundai Lavita assembled in Ulsan?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4033,Does Fa'a' International Airport serve tahiti too?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2026,Is God Save the Queen the national anthem of United Kingdom?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1828,Was christina crawford trained by Booker T?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2595,Is morrissey in the smiths?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3517,Was True Grit a novel of the western genre?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1493,Was Lucrezia Tornabuoni the mother of Lorenzo de' Medici?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2261,Did Umkhonto we Sizwe had Nelson Mandela as a commander?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4156,Was Kevin Rudd the PM of Julia Gillard?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4042,Does Dan River flow into the Jordan Valley?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2017,Is Amharic the official language of Ethiopia?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3981,Was Love Hurts in Short Cut Draw Blood?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2165,Is the book The Buddha and his Dhamma a book about Buddhism?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1574,Does Jevan Snead play as Quarterback?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:716,Does Cascade Airways have a hub in Seattle?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2756,Was James maker in the band Noko?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2000,Was Nick Jonas a member of the Jonas Brothers?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1824,Is jim harbaugh currently in the Michigan Wolverines?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:255,Does the US route 281 have a junction at San Antonio?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1581,Was Queen Latifah in the U.N.I.T.Y. group?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2508,Did Annie Leibovitz do the cover of The Road Ahead?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2745,Is Pittsburgh Steelers the former team of Marv McFadden?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4486,Is Maria Sharapova the silver medalist of Tennis at the 2012 Summer Olympics  Women's singles?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3709,Is Charles Drummond Ellis a doctoral student of James Chadwick?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:510,"Does the St lawrence river start in Kingston, Ontario?",urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:499,Is Mike Babcock the head coach of Toronto Maple Leafs?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1156,Is George Lucas the cinematographer of 6-18-67?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2616,Was John Muir the first one to ascend one of the peaks in the cathedral peak?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:143,Was Tim Gunn a guest on The Broken Code?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3146,Was Morrissey a member of the Smiths?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1516,Did Phillippe Cabot go to Columbia for studying?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4000,Was Marshall Arisman the cover artist in american psycho?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4592,Is Egyptian Arabic belong to the Central Semitic Languages family?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2816,"Was Francisco Pizarro of the monarch of Charles 5, of the roman empire?",urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3672,Is Andrew Lincoln the narrator of Million Dollar Traders?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4146,Is the Hyundai Lavita assembled in Kulim?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2774,Is Essex the Ceremonial County of West Tilbury?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2950,Does Mauritius follow a parliamentary republic?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3175,Did Jerry Rice study in Oktoc Mississippi?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4057,Is north caucasian emirate have an islamic government?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2300,Is fox belong to the phylum of Chordate?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4780,Is Henry Knox a commander of Continental Artillery Regiment?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4276,Is Baker's Dozen Donuts in the coffee industry?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:16,Is Nikolai Morozov the former coach of Stanislav Morozov?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3120,Did Alexandre Tichonov study at the Moscow university?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3067,Does Timothy Morton study Buddhism?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4199,Does Chicago own the Monroe Station?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3191,Was andy warhol a part of Pop Art movement?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2049,Did Bob Dylan write the lyrics of the times they are a changin'?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4992,Is Brazilian jiu-jitsu the trainer of Nick Diaz?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1369,Is Cologny a neighbouring city of Geneva?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3272,Did Raymond Picard take birth in Paris?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3582,Was Elton John a chairman of a Watford FC Season?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:766,Was Cliff Burton in Metallica?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3696,Does StandBy records distribute via Sony?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1853,Did John Byrne create Emma Frost?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3763,Was Heinrich Himmler ever a commanders of Army Group Oberrhein?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3242,Is greasy pop recording the distributor of festival records?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4191,Is Sloth in the Chordate phylum?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3104,Is Albert P Clark buried in Colorado?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4551,Is Christchurch the largest city of South Island?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4798,Does AMC Gremlin have the Volkswagen engine?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:2888,Is Anne Hidalgo the mayor of Paris?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3890,Is the Vadodara railway junction onwed by Indian Railway Ministry?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4658,Is Latin the official language of Sovereign Military Order of Malta?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:1806,Does Ford own the Ford Kansas Assembly plant?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4843,Did Stanlee write the Tales of Suspense?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:3385,does the US navy have the structure of command of us department of defence?,urn:LCQuAD:answertype:boolean
+urn:LCQuAD:id:4702,How many other battles have the military person fought whose one of the battles is World War II ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:428,What is the total number of other tenant of the stadia whose one of the tenant is Raptors 905?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:951,How many people are there whose children died in Indiana?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1759,How many cities are around the sea in which the the fig tree bay meets?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1383,How many pole drivers have been there in grand prixes where first driver was Damon Hill?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1107,Count everyone who studied at an institute which are in Suburbs?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4727,How many television shows have  Fox Broadcasting Company as their channel?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4857,How many books are written by the author who is famous for Novelas Ejemplares?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2394,How many shows belong to the network one of whose sister station is Cartoonite?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4980,Muhammad Yunus has won how many awards?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:385,"Count the units garrisoned at Arlington County, Virginia.",urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3737,How many religions are followed by the group whose architectural style can be seen on Sanggar Agung?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4728,How many things are written in C++?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3016,How many ideologies do the political party of Boonchu Rojanastien hold?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3797,How many politicians are there from the city of Ganges?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3449,How many TV shows are similar to the ones belonging to fantasy genre?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3056,How many developers were involved in creating games whose score is composed by Gerard Marino?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:345,Count the number of sports team members  which have player named Matt Williams ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:814,How many different people own the Timeform award winners?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3756,How many subjects are covered in the publications of Doubleday?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1202,How many things are made by companies who produce mass media articles?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3762,In how many places has Don R. Berlin worked?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3597,For how many movies are there whose musicians home town is in Volos ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1314,How many other home stadium are there of the soccer club whose home stadium is Luzhniki Stadium ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2965,Give me everything owned by networks which is lead by Steve Burke?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:375,Count all the ethinic group who speaks language which belongs to Anglo-Frisian language family ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4379,How many artists have their works in the Sao Paolo Museum of Art?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1118,Give me the total number of membership of the organisations which have memebers as  Azerbaijan?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2376,How many soccer manager have been in the Spain nation football team?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1619,How many bands collaborated with artists who signed up with EMI?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2060,How many TV shows are of the company which are of company which is a subsidiary of Big  Ticket Entertainment ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:260,Give me a count of royalties buried in Rome ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4417,In how many places are Marjas found?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2324,What is the total number of other destinations of the airlines whose one of the destinations is Mediterranean Sea?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2709,Count the total number of academic discipline of the journals whose one of the academic discipline is Neuroimaging ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3812,Count the movies in Swedish language?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4655,Give me the total number of television shows whose theme music composer is Julian Gingell and created by  Simon Fuller?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1761,Count the number of families of the Animal kingdom.,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1169,How many movies music composers are associated with Demis Roussos ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:125,Count all the different purposes followed by the different NGOs.,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4517,Count the tenants of MasterCard Centre?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2075,Count the number of religions followed by BJP members.,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:918,"What is the number of occupation of the people who died in tampa bay, florida?",urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1968,What is the total number of writers whose singles are recorded in Miami?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3122,How many members are there in the European Go Federation?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:760,"What is the total number of awards whose presenter's headquarters is Beverly Hills, California?",urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4138,How many artists have collaborated with famous guitar players?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3818,How many politicians live in India?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2832,How many albums did the maker of The Band produce?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:137,How many rivers start in an English speaking country?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3962,How many people have worked for teams chaired by Patricia Amorim?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:770,How many kinds of games can be played on the Amiga?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:673,How many relatives are there of people fought in the Battle of the Bulge?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:249,How many genres of games can I find on the commodore CDTV?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2193,How many bacterias are there whose division is Firmicutes?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4508,How many awards have been given to the founder of Grameen Bank?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2956,Count the number of important works done by the writers of The Second Coming?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:470,Members of how many political parties have died in Delhi?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1250,For how many other teams have the members of Atlant Moscow Oblast played?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:928,How many fictional characters are there in a series in which Craig Robinson acted?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4879,How many companies were started in the states?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4618,How many movies are distributed by Cinema International Corporation?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2982,How many cars are similar to the ones assembled in the Jefferson North Assembly?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2156,Count the number of region of AN/FSQ-7 Combat Direction Central?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1167,From how many different places have people gone to the Harward Medical School?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4171,What is the total number of professions in which someone who has suicided worked?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:395,How many golf players are there in Arizona State Sun Devils ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4836,Count the number of characters in Batman Live?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3465,Total number of places where people drafted in the detroit pistons have died?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3974,"For how many PMs did the politician work, whose successor was Kingsley Wood?",urn:LCQuAD:answertype:number
+urn:LCQuAD:id:114,Give me the total number of employer of the engineers whose one of the employer is McDonnell Aircraft ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:417,How many developers have games where I can hear Lightning McQueen?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1625,How many record labels publish works of Jazz fusion?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4671,Count the total number  of hometown of the gymnasts whose one of the hometown in Russia ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2546,Count the PhD students whose thesis are supervised by National Medal of Science winners?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3373,Count the total number of cast member of the television shows whose actress is Joey McIntyre?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4380,Count the battles fought by Raoul Magrin-Vernerey?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2427,Count all the stateless people,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4634,How many apes are there?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3059,Count the key people of the Clinton Foundation?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4045,Music of how many things has been given by Akira Ifukube?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3506,In how many places are the tombs of people who died in Connecticut Colony?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1470,Count the number of battles fought by the military person involved in Morocco ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3343,How many important works have been done by Russel Davies?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1081,"How many home stadium are there, of the soccer club seasons whose chairman is Merritt Paulson?",urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1148,Count the  total number of mammals whose phylum is Chordate and order (taxonomy) is Diprotodontia?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:574,How many cities are around the sea into which the aegean sea flows?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1166,What is the total number of participant in conflict of SFOR?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4115,How many movies have been directed by Orson Welles ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4341,Ricky Gervais is the executive producer of the series having how many fictional characters?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:784,Cable stayed bridges have been used to cross over how many things?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:127,How many things are crossed over by bridges which can carry cars?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1060,How many different songwriters have had their songs recorded in London?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4994,What is the total number of other combatant of the military conflicts whose combatant is Choctaw?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4985,How many people hold important positions alongwith Donna Shalala?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3987,Count the writers whose work has been played in NY?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:956,How many people used to play in the youthclub of FC Barcelona?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3923,How many people have fought wars where Arthur St. Clair was a commander?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1696,How many religions are followed amongst the people who've worked in the Korean army?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4499,Count the number of musical work which were sold by Sony Music?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3723,How many universities are there whose country's capital is Oslo?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4061,In how many states can one find Burr Tuss kind of bridges?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2911,How many movies have a screenplay located in the States?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1147,Count everyone who lives in a place where Indian English is an official language ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:608,How many religions are practiced by diplomats?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2327,Count the number of things people who know linguistics are known for ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4496,How many religions are followed by organizations which are internationally known as the muslim brotherhood?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:698,How many fictional characters were humans?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2999,How many TV shows' networks are headquarterd in NY?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:3457,How many teams have rented stadiums in Canada?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1282,Count the affiliations of International Union of Anarchists?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2237,Count the water bodies that flow into the North Sea?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4934,How many things are produced by companies located in Tehran?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4636,How many cities are close to Lake Victoria?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1028,In how many different places have people beatified by Pope Pius X died?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:200,Count the number of religions followed by the alumini of Ananda College.,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:4474,What is the total number of software whose programming language is C++ and operating system is Microsoft Windows?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:391,how many companies are located in a spanish speaking region?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:492,From how many different institutes have the members of Judge Advocate General's Corps graduated?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1981,Give me the count of all the names of characters created by Frank Miller,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2556,How many people have led agencies in German occupied Europe?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:2435,For how many cities's teams did David Bowens play?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:466,Count the number teams which have  former ice hockey players which also included American Hockey League ?,urn:LCQuAD:answertype:number
+urn:LCQuAD:id:1701,Which architect of Marine Corps Air Station Kaneohe Bay was also tenant of New Sanno hotel /',urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3293,Which sects people are part of local political parties which fall under the International Muslim Brotherhood?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2161,List common systems are developed by of the Google Videos and written by of the Google Web Toolkit ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2549,Name the artist who made Dream Dancing and is often associated with Joe Pass?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:193,Who is the office holder with deputies as Neil Brown and Andrew Peacock?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3057,Where did these popular aeroplanes - Focke Wulf 260 and Start+Flug H 101 originate?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3246,Which television show 's producer is Stephen E. Ambrose and written by Erik Jendresen?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1394,Who created the Women in the Garden and also the L'Enfant a la tasse ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2637,Which famous horserace has seen both Fergie sutherland and the illustrious War of Attrition?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:768,Tell me the name of the Prime Time Entertainment Network's TV show whose Artist is Christopher Franke ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3090,Whose network's parent organisation is Comcast?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3215,Which cport of Vishwajyot High School is also the genere of Battle chess ,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4938,Who was in the missions of Apollo 11 and Gemini 8?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4448,Where can one find the Dzogchen Ponolop Rinpoche?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2332,Who is the stockholder of the road tunnels operated by the Massachusetts Department of Transportation?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2717,What are the awards won by the film director of Saraband ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4383,What is the military branch of the William French Smith which is also the branch of Pierre R. Graham ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:989,What is the religion of the person who founded the Emel magazine?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:326,Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1724,Where are jockeys in Dubai World Cup from?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1086,Who owns the newspaper which was founded by Nehru?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2523,To which places do the flights go by airlines headquartered in the UK?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:688,In which cities can the beverage related to Barq's be found?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3432,What is the birth place of the astronaut whose mission was the Vostok programmer?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:848,Where did Whitney Wistert debut?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:966,What is the major shrine of the monarchs whose successor is Dragimir of Travunia and Zachlumia?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1492,What is the river whose mouth locations are Arctic Ocean and Laptev Sea?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3953,What are some wars fought when Chung Il Kwon as the country's prime minister?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2203,Where was the person born who died in Bryn Mawr Hospital?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2713,What is the faith of the Ajith Perera and religious affiliation of the Neungin High School?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:661,Who was in military unit which played the role of Air interdiction?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1002,Who are the current members of Insects vs Robots?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2224,"What place did Edwin Adams die at, which gave birth to William A Purtell?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4706,Name the nationalteam of Trn Vit Hng ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1879,Which designer of RENFE also owns Renaissance Center ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3572,Whihc uni did Joshua A. Siegel attend ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4167,where did Deion Sanders debut?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:762,What cities are nearer to Fuountain Lake Farm?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:875,Who are the characters of Batman Live?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4370,Who is  related to Kelly Osbourne & Ozzy Osbourne?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4569,What are the houses of the legislature where the leader is called Pullaiahgaripalli ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:536,Which serving railway line of the Daund Junction railway station was also the place where 99 (2009 film) was recorded ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2291,List the ethnicity of Riley Reid?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:936,What is the university whose campus is Mount Moosilauke?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2360,Name the garrison of the Western Naval Command and line of the Vadodara Junction railway station ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3507,Who are the shareholder of the soccer club for whom Steve Holland plays?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:201,Which city located on Mediterranean Sea is also the stadium of Panionios G.S.S. season ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3502,"What are the hubs of PLUS Helicopter Services, a highway helicopter unit of PLUS Expressways?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2708,Name the movies for which music was given by  Geoffrey Burgon and distributed by  Cinema International Corporation?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1854,Among the companies who has product named Chinook who has a key person as Dennis Muilenburg ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3030,Name the TV shows with network as NBC and company as Paramount Television ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1205,Name the fictional character whose voice's animator is Hardie Gramatky?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1645,Which license provider of MSX basic is also the designer of Language Integrated Query ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1792,Who is the partner of Rob Patterson?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3367,Which architect of the Marine Corps Air Station Kaneohe Bay is the branch of the Burnet R. Maybank?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3533,Which movies's screenplay is written by Akiva Goldsman,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4531,Which sea is surrounded by Rostock and Kaliningrad?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:126,Which television show's developer is Brian Graden and voices to the character is by Isaac Hayes?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2730,What is the nickname of the home stadium of Angels Toru?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:984,List all the doctoral student of the scientist who has advised john Bowlby ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3281,To which series does the book belong which came after the Blade Runner 2?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4971,In which city did The Ultimate Fighter: Team Rousey vs. Team Tate take place ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:362,Name the river with source as Shannon Pot and its mouth is located in Limerick?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2349,What is the organisation whose purposes are Environmentalism and Peace?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4160,Guggenheim family is the cofounder of a company that invested stocks in which baseball teams?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3325,Which city is known for the people working in the western penn hospital?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4106,In which country does the publishing house exist which was cofounded by Panos Loannides?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2116,Name the team which is owned by Dafenham wind turbines and stood first in 1967 mexican Grand Prix ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1834,Which education center Sidney Catlin Partrodge attended which was also the alma mater of Lisa Brummel ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4946,Which ethinicity of  Riley Reid is the state of origin of Holmes Colbert?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:94,Which american football team  has stadium as O.co Coliseum?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2891,In which city of Pittsburg Steelers was the Congress of Inductrial Organization founded ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4149,Name the sea into which Danish Straits flows and has Kaliningrad as one of the city on the shore ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3228,What city has the football team in which Lee Robinson debuted?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2853,Who is the owner of the bank which owns Bloomberg Radio?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2912,Which companies were behind the renovation of McKechnie Field ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1857,Miluk and Cayuse are still spoken in which part of the world?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2645,Which governer of Winston bryant is also the president of Carl Stokes ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2243,List the sports of PATTS College of Aeronautics which are of interest of Jon Speelman ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2336,What is the home stadium of the club coached by Justine Omojong?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:950,Which are the predecessors of the cars which are similar to the Oldsmobile 88?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3068,Name a queen whose parent is Ptolemy XII Auletes and consort is Ptolemy XIII Theos Philopator?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1120,Which show's theme music was composed by Primus and voiced by Isaac Hayes?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2597,"Who is the chancellor of the university whose campus is in Woodlane, New Jersey ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2204,Name the mountain whose parent peak is located in Mexico.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:922,List the developers who has contributed to both GNOWSYS and GNU TeXmacs ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2035,Who composed the music for Tonight's the Night ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2626,What awards have been given to race horses bred by Bert Michell?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4818,Whose mayors are affiliated with Christen-Democratisch en Vlaams?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1970,What is the common nationality of Viveka Babajee anad Ronny Vencatachellum ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4018,Which party won the elections when Y.S. Rajasekhara Reddy was in power?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3687,What are the notable commanders of the army  whose one of the notable commanders is Paul Hausser?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3054,Who is the producer of  Frampton's Camel ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2712,To which country is Svetlana Navasardyan from?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2190,Who is the owner of  Chelsea F.C. ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1318,"In all the places with a stagecoach, where is a Peetz Table Wind Energy Center located too?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1863,"Name the fictional character whose relatives are Huey, Dewey, and Louie and is of species American Pekin duck?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2343,Who is the owner of the website which has the label Seed Eight ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4960,"Whose relatives are Clan McDuck and Huey, Dewey, and Louie?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2621,What musicians are signed up with colpix records?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2898,What currencies are used in the country whose capital is Podgorica?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:872,Which composer of Motorpsycho Nitemare has also composed The time are A-Changing ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3850,What river is it whose source is Dowra?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4787,"What is the religion of the president who won the Mongolian legislative election, 2004 ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2560,"What religion do the politicians follow, who graduated from the Yokkohama Nationaal University?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4896,"Who is the narrator of The Incredible Hulk , 1982 TV series ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3530,Which interest of Philip Novak is the relegion of Vesak ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1908,What is the area of the Tar Heel Sports Network which is  official residence of the Michael Nichols (photographer) ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4332,Cologny and Lancy are the neighboring municipalities of which place ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3677,What is the content licence of MSX BASIC ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4864,Which comic characters were created by Paul Dini?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1994,Where was the predecessor of Sevan Ross born?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4955,Which city council owns the Ted Williams tunnel and Leonard Memorial ridge?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4355,Where is the school which is the rival of Somerset Berkley Regional High?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1342,Name the common alma mater of the Henry Morton Dexter and Jack McGregor,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:320,What are some companies which are founded in Dallas Jurisdiction?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3713,What is the purpose of New Zealand Chess Federation ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2219,Who operates twin Cities 400 ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1673,What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2039,List the soccer players whose current team has the ground Stoke-on-Trent.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:901,Which are the countires where Pioneer Corporation has flourished?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3744,Who is the president of Carl Stokes nad Wyche Fowler ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1917,List few Swedish language movies ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4394,What are the musicals whose musicians worked under Sony Music Entertainment?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4208,Whose shrines are in a place governed by Justin Trudeau?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:224,What are the academic interests of the past members of Senser?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:723,Who is the leader of Hackweiser ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1141,Where was the successor of Hank Brown born?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2762,Name the constituency of Jonas Gahr where Sverre Krogh was born ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:846,What is the common battle fought by Stephen Urban and Ali Habib Mahmud ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2551,What is the relegious affiliations of Katyayana ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2928,Where was the engineer born who manufactured EP R.E.P. 1?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3,Which party has come in power in Mumbai North?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4170,Name the tv show with judges Randy Jackson and Jennifer Lopez?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:467,What is the largest city of the country which hosted the 1951 Asian Games?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:5,Which royalty was married to ptolemy XIII Theos Philopator and had mother named Cleopatra V ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:919,Whose theme music was composed by a band which collaborated with Phish?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1063,Which administrative headquarters of the Pulau Ubin is also the resting place of the Nicole Lai,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2590,Where did the beverages sold by Refriango originate?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:242,Who built the stadium which was rented by Costa Rica national football team?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1160,In which country does the Auckland rugby union team play  ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3735,"What is the radio show created by Timoteo Jeffries, about?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2563,Which battles were fought under the president when Chung Won Shik was the prime minister?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1605,"Which office holder's resting place is in  Palo Alto, California and was succeeded by Adrian A. Basora ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1312,What are some cities which have a Ferris wheel?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3448,Name the movie who has screenplay by Akiva Goldsman and is edited by Mark Stevens ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2362,Which cloud platform of Google cloud connect also provides services to 21Vianet ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1975,Name the office holder whose constituency is Haight-Ashbury?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2739,What is the political party of the person succeeded by A.K. Singh?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4844,Who is the head coach of the teams in Middlesbrough FC?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2472,To which uni. did  sidney c patridge and cyril hume both once went?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4007,People in the royal Thai army follow which religion?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4206,Who are the producers of the movies  which has music by Gary Chang ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2158,Where was Special 26 recorded ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4516,To which nation did David Animle Hanses owe his allegiance?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:232,What is the alma mater of the actors of The God Who Wasn't There ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:66,List some musicians associated with famous guitar players?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3283,Which company's cars are assembled in Colombia?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1976,What is the common ideology followed by Katyayana and Palang Dharma Party ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3086,What is the mascot of the rival school of Sullivan Central High?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4345,What award has been awarded to both Dion Beebe and Charles LeMaire?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3345,What is the birth name  of Putri Raemawasti ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4464,What is the party of the politicians whose children is Sanjay Gandhi ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2797,Name the tenants of MAsterCard center wich is also the draft team of Antoine Bibeau?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1646,Who was the United States president who also served as a governor of Indiana Territory?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:364,List the people who were born in Gelnhausen and graduated from Pepperdine University?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3287,Musical artists who are associated with Ren & Angela were born where ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2125,What religion do the Wickramabahu Centeral College and Neungin High School both follow?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:55,Who started at the pole position in both 1997 canadian grand prix and the 94 spanish one?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:302,What is the name of the artist which worked on the subsequent work of Ella Loves Cole ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1276,"What state was Cyrus Mann born in, and has the famous Downriver ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2055,Who is a religious figure titled superior general?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4143,What are some famous veterinary physicians known for?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2878,List the movies edited by Julian Doyle in which music was composed by Geoffrey Brugon ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2286,Which owner of Chelsea F.C also owns Evraz ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1753,What are the movies whose screenplay is done by Eric Roth?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4351,What religions are followed by members of the societies whose architectural influences can be seen on the Sanggar Agung ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3117,Who is the producer of album which has the song Money?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2393,List the Sci-fi TV shows with theme music given by Ron Grainer?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3900,Who is the writer of mark twain Tonight ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:671,What is the mascot of the handball teams in the Turkish Handball Super League?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:666,Marika Gombitov makes songs in which languages?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1887,Name the river which flows through the closest city of Mount Raimer ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3266,Name the scientist whose supervisor also supervised Mary Ainsworth?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:280,What are some relatives of armymen who died in Germany?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1719,Deion sanders and Hinkey haines debuted their career with which common team?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2947,Which garrison of East Indies Station is also the route end of Mumbai Vadodara Express ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:899,To which political party does Virendra Kataria belongs ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4850,Copley Medal has been awarded to which scientists?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2593,What is the region served by the governor of Stephen L.R. McNichols ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4164,Who operates Liverpool Playhouse ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3031,Who has composed songs produced by Terry Melcher?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3579,To which series does Lost special belong to ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3472,List few musical artist whose notable instruments are Ludwig Drums and  Remo?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2180,For a position in which institution were both Jack Ryan and Robert sarvis both appointed?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4367,"Which rivers have source origins asnorth western, Zambia ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4261,Organization holding stocks of  Galician and German wikipedias?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4344,"Name the river with Readin, Brekshire in its path and mouth place is Sothend-on-sea ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1331,"Alexander Magleby, a rugby player is alma mater to which university?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1358,List the products of the company which published Tweenies: Game Time.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2150,What religion are the characters of Absolutely Fabulous from?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1252,"Janaka Thissakuttiarachchi follows what religion, which once employed Atisa Srijnana too?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3278,Whihc birthpalce of Svetlana Gounkina is also the largest city of Union State ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3374,Name the TV show with artist Christopher Franke and cast member Jason Carter ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2814,Which artist married to Lee Krasner?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1848,What teams did the ex teamplayers of lighthouse boy club start their career with?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3037,Where was the deadbody discovered of one of the alumni of General Educational Development?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:388,Who designed the bridge in Oddamavadi?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1077,Name the co-founder of the record labels which have one of the founder as Chris DuBois ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3419,Give me the sitcoms where Eliza Schneider and Isaac Hayes gave voice?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2081,Directors of which movies are buried in Ronda?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1823,List the debut team of the baseball player who born in Houston.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4668,Who edited  British Gazette ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2048,List the things for which the relatives of Mrunalini Kunte are known?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4178,What acts and artists are associated with people who have worked with Divertis?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2724,What are the notableworks of Russell T Davies?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:384,List the director of The Adventures of mimi ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4535,List sports managers who managed Middlesbrough F.C. and England national under-21 football team?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2152,Name all the soccer players who played in a under 18 club for La Liga?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1633,Which key perosn of the Elders is also the president of united World College ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4586,Who are the players whose current clubs have Ferran Soriano as chairman?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3925,What are some parties which have people from Mangalore as a member?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4158,Which employer of Michael M. Sears is also the producer of Delta III ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3136,To which country does Peter Blay owe his allegiance?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4600,Name the television show whose subsequent work is Crusade and Composer is Stewart Copeland?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:797,What are the current music bands of Chester Bennington?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2871,Who was the prime minister under which the predecessor of Derick Heathcoat Amory served?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:9,Which person designed the cars which has been designed by ASC Creative Services?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:924,Who all are known to play the Gibson Guitar Corporation?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4429,Which child of Jack Ferguson became a Prime Minister?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3775,What are the things whose mascots are from the class Eutheria?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4136,For whom did Michael Springer palyed for which is also had a former student named Donald Brooks ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2779,Name the common nationality of Georgina Theodora Wood and akwasi Oppong Fosu ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:539,Name the movie written by Monty Python and distributed by Cinema International Corporation ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4498,Which series was written by Eric Jendresen and John Orloff?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4571,In which city can I find both the office of Elasticsearch and the Yellow Claw DJ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:667,What is the area of the broadcast network which has the affiliation with 9TV?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3019,Who is married to Gerard Piqu?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:357,Which sports are played in schools affiliated with the Harvest Christian Center?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2831,Who debuted their career in a team coached by Chip Kelly?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2783,What are the nicknames given to the characters of The Wolves of the Mercy Falls?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2703,What is the birthplace of Adugna Deyas and the place where Fiq is located?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3330,what is the headquarters of Juan Dalmau Ramerez?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3637,The president who was in office when Lee Hyun Jae was the PM followed which religion?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1396,Who is the maker of the engine of Ford F-Series first generation ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3584,What is the religious affiliation of Neungin High School?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3376,Name the office holder with successor as Adrian A Basora and child as Lori Black ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1256,Who is the owner of the South end ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4807,What is the state of origin of the president whose alma mater is Hellenic Naval Academy ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1852,Which producer of Purvis Eureka engine is also the owner of Ford Theatre ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4543,Who owns the airport in Paphos?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1531,What is the baseball team whose club manager is Chip Hale?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1996,Who built the stadiums where 2014 FIFA under 17 woman's world cup took place?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3072,Which area operataed by the South Side Elevated Railroad is also the palce of death of the Sakari Suzuki ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1384,In which city wasThe Triple Door (The Courage album)  performed live?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:894,Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:455,List the battles fought by  Ali Habib Mahmud ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4134,In which fields have people born in Lausanne worked?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3602,Which Texas based company  was founded by Jim Harris ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:713,"Name a show hosted by Brian Dunkleman and judged by Harry Connick, Jr.?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2214,"In which country's cuisine, ham is an important part?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3141,Give me the list of cars which are the predecessor of Full Sized Cars?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1827,"List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4312,"List all the movies whose directors were born in Kenosha, Wisconsin?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1680,What stadium's operator is Stan Kroenke,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1856,Who gave guest appearances on the show which is the next episode after the Bombshell one?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1388,What is manufactured by a company headed by Kazuo Hirai?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3719,Under which presidents have politicians from the Continental army served?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2386,Philadelphia City Council is the governing body of which city?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1540,Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1217,Name the fictional character whose relative are Duck family and Clan McDuck?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2681,Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1542,What awards are won by the screenwriter of Lucky You?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3301,Name  the Pole driver of 1994 Spanish Grand Prix ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3324,Where did Georges Wolinski and Judson Huss die/,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2539,What is the parent company of the airline whose hub is in Detroit?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3294,Whose predecessor had Jenny Macklin as a deputy ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1062,What are the common houses of US Congress and the Kansas Legislature?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3222,Name the television show where Mona Marshall has given voice and is distributed by Comedy Central?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3636,What are Jerry Bock's musicals based upon?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3140,Who has allegiance is Colony of Virginia and buried in Montpelier?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3577,What is the successor of PlayStation 4,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:717,Who did their highschool from a school whose mascot was a fighting tiger?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1819,Which destination of Emerald Air is also the city served by houston Fort Bend Airport ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2502,name the region served by Jerusalem Institue of Justice which was also the conflict region in GazaIsrael ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4360,Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4492,List the services provided by the company which provides Microsoft azure as one of the service ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1365,What are some team members of the team based in Camp Nou?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4558,Which universities are also known as the Tulane Green wave?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:595,What is the branch of the politicians whose governor is Bill Clements?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2914,What is the location country of Teperberg 1870 ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3766,What is the stylistic origin of the music genres where the Bass guitar is important?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3440,What are the other notable work of the executive producer of The Runaway Bride episode of Doctor Who?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4132,Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4591,What type of engines are utilised by Purvis Eureka?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1571,Who were involved in the wars where Jonathan Haskell battled?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2504,What are the awards won by the person who wrote the screen play for Lost in Rio ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:675,What band made The trial and One of these days song?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:728,"Name the university located in Indiana and has affiliations with Kaplan, Inc.?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:825,What river originates in Kingston Ontario?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3267,"By what style was Providence Chapel, Charlwood made?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3069,"Which universit's affiliation is with Kalpan, Inc. and has campus at Iowa ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4185,List all the writers of the comics which has Robert Bernstein as one of the writer ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2896,What are the settlements whose neighboring municipalities is Lancy?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:753,Name the river whose source mountain is Baikal Mountains and mouth location is Arctic Ocean?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3969,Which broadcast area of CFRX is also the palce of birth of Anthony Raymond ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2444,Where was david Scherman trained ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1066,Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3913,Which nationalist group was responsible for foundation of Young Lords?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3498,What award was won by the father of Angelina Jolie?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2738,What are the software whose programming language are Multilingual?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1568,Which birthplace of Liliya Lobanova is also the location of the Snake Island ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1687,In which place is the company which is known for Barbara bestor located ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:895,On which river are there things belonging to zambezi river authority?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:335,Who is the artist of Sings Kristofferson and also performed Milk Cow Blues atleast once?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2839,Who has fought in wars under commander Arthur St Clair?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3087,Which Paramount TV show was produced by Glen and Les Charles ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1015,Which owner of the national Herald india is the leader of Kumta ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1631,What is the largest city of Pulau Ubin ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2489,What is the origin of the musical artist of A Todo Romantic Style ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3730,Horses sired by Karinga Bay have participated in which races?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3251,What is the alma mater of the scientists  known for  String theory?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2070,What is a common nickname given to both Lyons Township high school and the wheaton college in massachusetts?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4452,Where do beauty queens with brown hair reside?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4882,List the television shows one of whose distributor's divisions is Warner Bros. Animation.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1635,Name the television show directed by Simon Fuller and judged by Jennifier Lopez ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2479,Name the appointer of William Clark ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2265,in which movies have momoki kochi acted,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2959,What is the base currency of the Benelux and is also used as money in Kerguelen Islands?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2141,Name the company founded in New Mexico and provides Outlook.com as services ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3118,Which tv show was preceded by The spirit of Christmas and voice to the character was given by Mona Marshall ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1679,List the producer of the television shows distributed by FremantleMedia.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4249,Name the awards won by Elie Wiesel ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3147,Who are the producers of Marie Sisters?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:580,"List the successor of successor of Hayden, Stone & Co.",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4583,Who are currently playing for Barcelona FC?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2849,What is telecasted on the network where Deborah Turness holds important position?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1012,What magazine companies are of form Limited liability company?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1931,List the driver of SA MArino Grand Prix is also the Pole driver of Canadian Grand Proix ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1150,Where does John A Danaher III work?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2838,Name few movies directed by Tim Burton ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4806,Which footballers did their high school in west Sacramento california? ,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3675,List the names of the soccer club seasons whose division is 2012 Campeonato Brasileiro Srie A.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4853,Which american football team is owned by Mark davis and is located in O.co Colliseum ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4738,"The successor of Ulrich II, Count of East Frisia was born in what place?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:635,Who is the prime minister of Michael Jeffery who is also the minister of Williuam Deane ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4465,Who is the owner of the FC which owns the Cobham Training Centre?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4142,What have some US citizens died of?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:876,Who is buried at the place governed by National Park Service?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3051,Which past members of the The Conglomerate (American group) also sang Take Me There (Blackstreet & Ma song)?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2660,"Which military unit garrison is Arlington County, Virginia and The Pentagon?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2491,Name all the products produced by the producer of United States dollar ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3769,Where did the office holder  who is predecessor to Marco Aurelio Robles died ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1982,list the founders of Bream Bay ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:971,Name the people whose academic advisor has also mentored the thesis of Alexius Meinong?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4495,Which serving railway line of the Daund Junction railway station is the home port of INS Viraat ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3847,"Which river flows through Hudson Highlands State park and also through Troy, New york ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4131,Which borough is common for Duddeston and Bordesley railway station ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2455,What is the birthplace of Ludovic Boi which is also the residence of Fernando Augustin?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1841,"Who is the producer of album, which has the song Eclipse ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:537,"Which parties have their members live in the PM House, Colombo?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1409,What are the television shows whose starting music is composed by Ron Grainer?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2537,Who influenced the author of The Shooting of Dan McGrew ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3009,"What region was Gloria Schaffer born in, which also contains Newington?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1686,"List some teams for which someone who has played as a defender, now plays?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2901,Which rivers start from the Provinces of Zambia?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4949,Who are the scientists known for the Manhattan Project?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3863,What are some dishes from the family of dishes which primarily use flour?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2733,"Which religion do the people follow, whose constituency is Jadavpur?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1895,"In which region is the rival school of Somerset, Massachusetts located?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:569,Which key person of Clinton Foundation is also the president of Jim Sasser ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1816,"Where did the athlete start his career, who did his highschool in Red Lion Area School District?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2065,Name a person who works in Open Society Foundation and has wife named Susan Weber Soros ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3394,Which fictional character sculpted by Josh Friedmann was portrayed in Terminator 3 ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3327,Which team won the American Football League?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2975,Who is the founder of the trade union which affiliates Amalgamated Association of Iron and Steel Workers?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:980,Which leader of United States House of Representatives was the appinter of ohn Drayton ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:699,Where was James H. Fields buried ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3420,Who is the fictional character whose family member is Padme Amidala?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1069,List some pupils of National Science Medal winning scientists?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2205,"Where was Ne daj se, Nina first aired ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1243,Where did the 2015 MLS All-Star Game take place?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:815,List presidents of the school whose one of the president is Charles. Prince of Wales ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4784,Brian Moriarty designed video games written by whom?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:959,What are some movies whose distributors are led by Kevin Tsujihara?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:562,What automobile engine's successor is BMW M40,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3436,Name the company which produces both  Boeing F/A-18 E/F Hornet nad CH-46 Chinook ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:954,"In which team was the person drafted who has studied at the Worcester college, Oxford?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2735,What other things are provided by the producer of Office 365?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4903,Who owns the company that made the Edsel Villager?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4735,Which collaborator of Nice and Smooth wrote Same Song ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4823,Who fought in the battle at Tupelo Mississippi?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1527,List the other nicknames of city which has one of the nickname as City of Angels ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1300,"Where did the graduates of Memphis, Tenessee continue their education?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4891,What subsequent work of Moondog Matinee has the composer of Motorpsycho Nitemare ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:160,What was the language of the single which came before To Know Him Is to Love Him?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3234,Who is the chancellor of Falmouth University ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3777,Name the are where South side Elevated Railroad operate and has place of birth as Arthur A. Ross ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4433,"In which fields are the graduates of Worcester College, Oxford working?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2961,List the places where the relatives of Mark Donaldson died ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2200,What famous politician died in the Petersen House?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:98,What are some artists on the show whose opening theme is Send It On?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3183,What are the musical performances whose label is Celluloid Records?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:253,What is the craft of the Ralph Flanders which is also the profession of  Claiborne Pell ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1648,What are the awards received by spouse of Ellen Lundstrom?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4682,Who all have succeeded the kings buried in Rome?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1154,"Who is the person whose home town is Fairmount, Indiana?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2255,Name the movies directed by Stanley Kubrick and edited by Anthony Harvey?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3170,"Who is the military general buried in St Mary's Church, Battersea?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4090,What are some other things developed by the company who made the remote desktop protocol?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3108,Where was Al-Muzaffar Umar buried ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4548,List the guests of On Broadway ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:623,Name the airlines which have a hub in airport in SF?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3369,What is the official name of Colorado wine ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1802,who developed google videos?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4736,"Who is the child of John Tyler, Sr.?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1959,Name all those buried in a place governed by a city council.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2976,What royalties's sepulchre is Mausoleum of Augustus?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1986,Name the country whose leader's deputy is Piotr Glinski?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:659,Which TV show is related to The Sarah Jane Adventures and theme music is composed by  Ron Grainer?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4282,Where in the us military did pierre r graham and edwin f hunter work?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1930,Which publisher of Lucifer's hammer is also known for Jo Garcia ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4389,Where were sverre krogh sundbo and havard vad petersson born?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3255,Who is the developer of the software which is produced by Claris ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2777,Which director of On deadly Ground also released Mojo Priest ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3474,Who commanded the invasion of Buwat and made Fatima bint Sa'd famous?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4097,What is the band with previous members  Kevin Jonas and Joe Jonas?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4947,Where was Girls (The Prodigy song)  recorded ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3581,List the awards won by the film director of Chicken Run?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1291,What territory of Sino French War was the battle of Raoul Magrin-Vernerey fought ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3743,"Which companies makes cars assembled in Karachi, Pakistan?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3445,Which company founded by Fusajiro Yamauchi also provides services of Nintendo eShop ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1998,In which countries does the sea lie on whose shore is the city of Cumana?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3748,Where is the headquarters of Sigma TV,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4413,Which scientist was advised by John Robert Woodyard?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:709,Who has been married to both Penny Lancaster and Alana Stewart?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2675,What is the alma mater of the scientist  whose PhD advisor is Jean-Claude Latombe ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4029,"List the people residing in Wilton, Connecticut?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1306,What is the Location of the Peetz Table Wind Energy Center which is also the state of Ben Nighthorse Campbell ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3302,Who was the First Driver of 1999 San Marino Grand Prix ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2038,Bantam Spectra is the publisher of which series?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1529,Where is the sister station of Al Arabiya 99 located?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4953,Which is the common past team of the Charlie Justice (American football player) and Bobby Hoppe ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3627,Name the officeholder who hasa child named Augustus and has an associate named Marcus Bibulus ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2625,"What is the river whose source region is North-Western Province, Zambia and river mouth is Indian Ocean?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3157,"Who was on the first team in the GPs that were held at Watkins Glen, NY?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3314,Name the movie whose screenplay is by Akiva Goldsman and directed by Joel Schumacher ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1059,What are the track and field events of Jamiatu Muslim Mindanao?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1757,What cities are near to Nihoa which is also known as Bird Island ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:563,Which shareholder of Naval Air facility Adak is also the operator of New Sanno Hotel ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2790,What other awards have been given to Golden Globe winners?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:863,Which allegiance of the John Kotelawala is also the  sovereign state of the Sanath Weerakoon ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1484,List the television shows whose network's sister names is N-tv.,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:206,God Defend New Zealand is the national anthem of which country?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:870,"Which political party of kumta had affiliation with Indian general election, 2004 (Andhra Pradesh) ",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:502,Where is the king buried whose predecessor was Iyasu II?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2690,"Where is the headquarters of the public transit system which owns Target Field, a Metro Transit Station  ?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1570,What is the nationality of Aishath Saffa ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2731,What are the bands associated with the artists of My Favorite Girl  ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:804,On what subjects was Broca's Brain written?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3645,Which parent organization of GetTV is also the label of next thing ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4875,Which hockey team is head coached by Bill Peters?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3099,Which team did Wilfred McDonalds and Cam Plante play for?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2278,What are the television shows whose network's stockholder is Warner Bros. Television?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3561,Name the Fox TV show judged by Rand Jackson ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1495,What is the combatant of the Northwest Indian War and also the ethnic group of the Linda Hogan ,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2568,Name the islands that belong to the archipelago whose largest city is Papeete?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:64,In which team did Dave Bing and Ron Reed started their basketball career?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3884,List the settlements area whose province is Metropolitan City of Venice ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2062,"What was recorded by Live in Detroit, MI and also palce of birth of the Bodhin Kjolhede?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4887,Who has manufactured vehicles designed originally by NASA?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1076,What is the order of the Henry Clay and profession of the William Luther Hill?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:878,What show  has theme music composer as Ron Grainer and at the same time  related to Class (2016 TV series)?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1275,Which venue of indy PopCon is also the death palce of Louis Le Cocqq ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:995,Where is the headquarters of Metro Transit (Minnesota) ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:161,Where was the narrator of Spain on the Road Again born?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1500,Name the movie with narrator as Trevor Peacock and music composer  as Christophe Beck?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3843,Where did the scientist study whose doctoral thesis was supervised by Leonard Lerman?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2613,Where can one find some quick bread in the world?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3461,What is the sea whose cities are Gdask and Oulu?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3073,Which venues are located at places governed by John Roberts?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3943,What is the venue of San Diego Comic-Con International ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1585,"Which office holder owes its allegiance to a state whose capital town is Jamestown, Virginia?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1955,"Which professional fighter, who is also a politician and was elected to House of Representatives of the Philippines?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3152,List the comic characters created by Joe Shuster ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4014,What city is located on the mouth of Duwamish River?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:775,Which governer of Winston Bryant is the president of Joseph Stiglitz ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1478,Where did the plays written by Robert Schenkkan take place?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2824,Who appointed both John Drayton and William Clark to their respective offices?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2041,Which operator of New Sanno Hotel is also the  governing body of the Oahu Railway and Land Company ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:241,Which predecessor of Alexander Downer was deputy to Neil Brown ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2363,Who wrote the album coming right before Dead Man's Chest's OST?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:600,What is the series of the book which is a subsequent work of Blade Runner 2: The Edge of Human ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:646,In which countries have models hanged themselves?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3556,What city gave birth to Mishal Raheja and also houses New India Assurance?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3202,Which TV show whose theme is composed by someone signed up with ATO records?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1528,Which models were featured in Playboy Playmates 1954?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1899,Who is the relative of Jim Farley (businessman) ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3005,"Where do the politicians, Blanche Bruce and John Franklin Miller work?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2734,Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:189,Name a  river with source country as Zambia and source location as Ikelenge  District?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:975,Which fields of the Paul Demiville is also the faith of Koay Teng Hai ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2558,Who was the cover artist of The Adventure of Tom Sawyer also wrote mark Twain Tonight ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1082,Name the scientist whose academic advisor is Karl Ewald Hasse and supervisor is Georg Meissner?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2904,Georg Meissner was doctoral supervisor of which scientist ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4117,Name the common home port of the Trishna (yacht) and INS Viraat (R22)?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4555,Name books with publisher as Francisco de Robles and writer as Miguel de Cervantes ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:1184,Who owns the schools which have a penguin as its mascot?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:2433,River which flows into the eugene mahoney state park pass through which states?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:769,"Which TV show had a judge named Harry Connick, Jr. and was presented by Ryan Seacrest?",urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:130,Which arena of WPC Dynamo Moscow is death location of Tigran Petrosian >,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3171,Which wars were fought when the commanders involved served under PM Choi Tu Son?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3444,Who is the meaning of Isa  ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3092,Name the common editor of Easy Street (film) and Work (film)?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:3772,List all the schools of the rugby player whose went to school named Pietermaritzburg ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:860,Name the office of Richard Coke ?,urn:LCQuAD:answertype:remove
+urn:LCQuAD:id:4124,List the associates of bands which have a label by Motown ?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:3205,What religions do diplomats typically follow?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:1969,Daniel L D Granger and Job Durfee have based their political career in which US state?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:4363,In which countries is coconut used as a food ingredient?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:4175,What kind of games are made by Interplay Entertainment?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:3486,Who all have been presenters on shows by the NBC?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:2993,Which state does Jerome B. Chaffee belong ?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:4079,In which city was the film star of Singhasan Battisi born ?,urn:LCQuAD:answertype:string
+urn:LCQuAD:id:34,"Which kind of conventions are held in Rosemont, Illinois?",urn:LCQuAD:answertype:string

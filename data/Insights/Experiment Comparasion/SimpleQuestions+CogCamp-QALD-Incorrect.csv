@@ -1,0 +1,9 @@
+experiment,label,classLabel
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,How short is the shortest active NBA player?,NUM
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,How deep is Lake Chiemsee?,NUM
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,What is the wavelength of Indigo?,NUM
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,What is the founding year of the brewery that produces Pilsner Urquell?,NUM
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,Is the wife of President Obama called Michelle?,BOOL
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,Is Pamela Anderson a vegan?,BOOL
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,Are Taiko some kind of Japanese musical instrument?,BOOL
+urn:experiment:7f8f2252e9bb41c79e70b86acc0e1b18,Are there any castles in the United States?,BOOL

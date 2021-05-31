@@ -1,0 +1,23 @@
+SELECT ?question ?questionText ?type {
+    #getting question properties
+    ?question <urn:SimpleQuestions:NumberOfDBpediaTopLevelTypeFound> ?number ;
+        <urn:SimpleQuestions:hasAnswerResource> ?answerRes ;
+        rdfs:comment ?questionText .
+
+    #getting answer resource DBpedia
+    ?answerRes owl:sameAs ?answerResDBpedia .
+    FILTER(CONTAINS(str(?answerResDBpedia),"http://dbpedia.org")) .
+
+    #type of the question
+    ?answerResDBpedia rdf:type ?type .
+    
+    #getting top level types
+    ?topType rdf:type <urn:topLevelType> ;
+        <urn:SimpleQuestions:hasURI> ?topTypeUri .
+
+    #filtering by only valid values
+    FILTER(xsd:integer(?number) = 1) .
+
+    #filtering questions types by top level types
+    FILTER(?type = ?topTypeUri) .
+}

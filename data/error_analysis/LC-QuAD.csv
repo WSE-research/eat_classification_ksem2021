@@ -1,0 +1,25 @@
+question;label;suggested
+What is the occupation of the Irving Chernev and Karen Grigorian?;Activity;PersonFunction
+Where the children of Ashot Grashi employed at?;Activity;PersonFunction
+What is the occupation of the band members of The Shirelles?;Activity;PersonFunction
+Whose album is Haiti, I am sorry?;Place;Agent
+List the awards given to the race horses bred by Willis Sharpe Kilmer.;Place;Award
+What is the military rank of the important commander of Peruvian Army?;Place;String
+Who operates the Ganz UV?;Place;Agent
+Chestnut colored horses have won which races?;Agent;String
+What ingredients are used in preparing the dish of Ragout fin?;AnatomicalStructure;Food
+What is the label of Double Diamond (album) ?;AnatomicalStructure;Work
+List all the developers of the Oddworld series?;Device;Agent
+Who is the spouse of Willian Menalaus?;Disease;Agent
+Who is the founder of Hohenau, Paraguay?;EthnicGroup;Agent
+What are some common ingredients used in Swedish dishes?;Species;Food
+What are all the TV shows which are related to the ones produced by Julie Gardner?;Number;Work
+From what countries have people participated in the Excelsior Stakes?;Number;Place
+Where did the genres originate, which were in the Harry and the Potters album?;Number;TopicalConcept
+Who owns a bridge in Boston?;String;Agent
+which award has been won by Claudia Moro?;String;Award
+Who has produced movies that have a James Horner score?;String;Agent
+What are some awards given to people who were born in sweden?;String;Award
+Who all have been judges on CTV Network s shows?;String;Agent
+Which religions are practiced in India?;String;EthnicGroup
+Name the artist of Brad Paisley discography ?;String;Agent

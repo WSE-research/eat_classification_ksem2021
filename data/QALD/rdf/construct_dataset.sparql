@@ -1,0 +1,16 @@
+SELECT ?question ?questionText ?type {
+    #getting question properties
+    ?question <urn:QALD:NumberOfDBpediaTopLevelTypeFound> ?number ;
+        rdfs:comment ?questionText ;
+        rdf:type ?type .
+
+    #getting top level types
+    ?topType rdf:type <urn:topLevelType> ;
+        <urn:QALD:hasURI> ?topTypeUri .
+
+    #filtering by only valid values
+    FILTER(xsd:integer(?number) < 2) .
+
+    #filtering questions types by top level types
+    FILTER(?type = ?topTypeUri) .
+}

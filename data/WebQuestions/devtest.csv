@@ -1,0 +1,191 @@
+question;class
+what is the name of justin bieber brother?;HUMAN
+where to fly into bali?;LOC
+what is cher's son's name?;HUMAN
+what countries do people speak portuguese?;LOC
+who was vincent van gogh inspired by?;HUMAN
+when will oscar pistorius compete?;DATE-TIME
+who plays meg in family guy?;ENTITY
+what stadium did the chicago cardinals play in?;LOC
+who was the apostle paul considered to be?;LITERATURE
+which countries are part of the united kingdom?;LOC
+what college did kevjumba?;LOC
+what sort of government does brazil have?;POLITICS
+what year was the great san francisco fire?;DATE-TIME
+where did rihanna grow up?;LOC
+where is the kakadu national park located?;LOC
+where is the ottoman empire located?;LOC
+where is tom cruise from?;LOC
+what should you see in london?;LOC
+what did kate winslet get an oscar for?;MOVIE
+where did pavlova originate?;FOOD
+what state is harvard college located?;LOC
+what state did al gore represent?;LOC
+what was the first name of the washington redskins?;SPORTS
+what made ancient rome fall?;DATE-TIME
+who does kris humphries play for in the nba?;SPORTS
+where did sir ernest shackleton come from?;TV
+who does the islamic worship?;RELIGION
+what does pixar produce?;MOVIE
+how many teams are there in the ncaa football?;SPORTS
+what movies has taylor lautner?;MOVIE
+what episode does rukia fade away?;MOVIE
+who does kurt busch drive for now?;COMPANY
+what team is chris paul on?;SPORTS
+what happened to justin bieber 2012?;ENTITY
+where did kurds originate from?;LOC
+who played juni in spy kids 4?;HUMAN
+what are the major imports of the united states?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'music.recording']
+where did martin luther king junior go to college?;LOC
+what legal system does germany use?;POLITICS
+who invented arabic alphabet?;LOC
+where is lake waynoka ohio?;LOC
+where is made kia car?;ENTITY
+what is the zip code for moorpark ca?;LOC
+what other cars does gm make?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'music.recording', 'music.single']
+what did richard nixon do for a living before he became president?;['http://www.w3.org/2000/01/rdf-schema#Class']
+where did henry hudson travel?;LOC
+what did egyptians speak?;LANG
+where did barack obama attend school?;LOC
+where north dakota located?;LOC
+who played todd manning on one life to live?;TV
+where do the abenaki indians live?;HUMAN
+where is isthmus of panama located?;LOC
+what states does the connecticut river flow through?;LOC
+who is susan st james?;HUMAN
+what cancer did audrey hepburn died of?;HUMAN
+what do the buddha believe in?;LITERATURE
+who became president after harding died?;HUMAN
+who was the leader of germany in wwii?;TV
+when did george w bush take office?;DATE-TIME
+where is wellsville missouri?;LOC
+where great britain located?;LOC
+when is the last time the chicago bulls won a championship?;DATE-TIME
+where is mallorca?;LOC
+what city was robert kennedy killed in?;LOC
+what is the closest airport to naples florida?;LOC
+what language do they speak in argentina yahoo?;LANG
+what type of planes does virgin america fly?;VEHICLE
+what all does google have?;['common.topic', 'base.schemastaging.contact_product']
+what to see outside of paris?;LOC
+what is julia gillard famous for?;LITERATURE
+who played jacob black?;ENTITY
+what currency does thailand use?;CURRENCY
+who plays mary jane in spiderman 3?;ENTITY
+who is the voice of lois from family guy?;HUMAN
+what tourist attractions are in houston texas?;LOC
+what does annie leibovitz do?;HUMAN
+what is the zip code for trenton ohio?;LOC
+who is kobe bryant wife bio?;HUMAN
+who was charles darwin married to?;MOVIE
+where did jane austen grow up?;LOC
+what time does target in alhambra close?;LITERATURE
+what are the best places to go in germany?;LOC
+where did pizarro land?;LOC
+what is there to do in mt baldy california?;LOC
+who is the ravens quarterback 2012?;ENTITY
+who plays stella in coronation street?;FOOD
+what did cam newton do?;LITERATURE
+what did neil say on the moon?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'music.recording', 'music.single']
+what were marco polo's goals?;HUMAN
+what language brazil use?;LANG
+when will muharram start 2011?;DATE-TIME
+what currency do mexico use?;CURRENCY
+what books did lincoln write?;LITERATURE
+where does kirk cameron live now?;LOC
+what disease did abe lincoln have?;['base.skosbase.skos_concept']
+what going on in afghanistan right now?;['common.topic']
+where is chowchilla located?;LOC
+where does brian williams live?;LOC
+what was the cause of death for sage stallone?;['base.skosbase.skos_concept']
+what has been discovered on mars so far?;LOC
+who is president of france?;HUMAN
+what was eli whitney education?;['freebase.domain_profile', 'type.domain']
+what american penny is worth money?;['common.topic']
+what kind of government does spain have now?;POLITICS
+what art movement was vincent van gogh apart of?;COMPANY
+where are brembo brakes from?;LOC
+what organism did mendel use?;['base.kwebbase.kwsentence']
+what did brittany murphy died of?;HUMAN
+what was robert hooke's contributions to science?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'music.recording', 'music.single']
+what was sir arthur conan doyle famous for?;TV
+what school did burne hogarth establish?;ENTITY
+what years did yankees win championships?;DATE-TIME
+who is the current president of dominican republic 2011?;HUMAN
+where did william howard taft go to high school?;COMPANY
+where are the headquarters of the united nations organization found?;ENTITY
+who was dr seuss?;HUMAN
+who won 2001 fa cup?;ENTITY
+what was eli whitney job?;HUMAN
+what football teams did emmitt smith play for?;ENTITY
+where was karl marx buried?;LOC
+who portrayed indiana jones in raiders of the lost ark?;ENTITY
+where do islamic people go to worship?;RELIGION
+who the voice of peter griffin?;ENTITY
+what was the capital of ancient israel?;['common.topic', 'music.release_track']
+what time zone is ontario toronto?;DATE-TIME
+who does zach galifianakis play in the hangover?;ENTITY
+what was gregor mendel known for?;HUMAN
+what inspired monet?;HUMAN
+what is the actual current local time now in uk?;TV
+what are the four harry potter house names?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'base.harrypotter.topic', 'fictional_universe.fictional_organization', 'base.harrypotter.hogwarts_house']
+what drugs were in whitney houston when she died?;HUMAN
+where can you buy amazon kindle?;ENTITY
+what type of poetry does john donne write?;LITERATURE
+what does a american rottweiler look like?;LITERATURE
+what is president abraham lincoln known for?;MOVIE
+what currency is used in hungary?;CURRENCY
+what college did joe montana play for?;SPORTS
+who plays alan parrish in jumanji?;ENTITY
+where did the arizona diamondbacks play?;LOC
+where are riddell helmets manufactured?;ENTITY
+what movies did matt bomer play in?;MOVIE
+what did roger sherman do for a living?;POLITICS
+where is christina aguilera from?;LOC
+what is the dominant language of jamaica?;LANG
+where was anne frank born?;LOC
+what timezone is minnesota in?;LOC
+where does frida kahlo live now?;LOC
+where does the jordan river end?;LOC
+who was papa doc in real life?;POLITICS
+where do most earthquakes happen in japan?;LOC
+what kind of language do china speak?;LANG
+what language do irish people speak?;LANG
+where do people speak burmese?;LOC
+where does the band metallica live?;LOC
+when did the arab israeli war start?;DATE-TIME
+what is the dominican republic part of?;LOC
+who plays harold saxon in doctor who?;HUMAN
+what kind of political system does iran have?;LITERATURE
+what language do brazil speak?;LANG
+what type of political system is spain?;POLITICS
+who is the 2011 heisman trophy winner?;ENTITY
+what is michael buble's style of music?;MUSIC
+what country did ponce de leon live in?;LOC
+what kind of government does vietnam have?;POLITICS
+who owns the steelers football team?;HUMAN
+where is rihanna from ethnically?;HUMAN
+who was the owner of kfc?;HUMAN
+what to do in chicago this weekend with kids?;LOC
+what kind of legal system does australia have?;POLITICS
+what currency do the ukraine use?;CURRENCY
+who plays stewie griffin on family guy?;ENTITY
+which airport is closest to barcelona port?;None
+what should i visit in venice?;ART
+what country is beside france?;LOC
+who started mary kay?;HUMAN
+who was the voice of simba?;ENTITY
+where was the first ford motor company located?;LOC
+when did the mets win the pennant?;DATE-TIME
+who wrote 2 timothy 4?;LITERATURE
+where did fred west work?;HUMAN
+what city was nelson mandela born in?;LOC
+what is currency in panama?;CURRENCY
+what type of voting system does australia have?;POLITICS
+who started southwest airlines?;HUMAN
+who does new zealand import from?;LOC
+what kind of political system is canada?;POLITICS
+what countries are included in the netherlands?;LOC
+what are the major imports and exports of canada?;['common.topic', 'base.type_ontology.non_agent', 'base.type_ontology.abstract', 'music.recording']
+what movie is angelina jolie directing?;MOVIE
+is this a fantom question;BOOL

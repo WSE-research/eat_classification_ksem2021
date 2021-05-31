@@ -1,0 +1,26 @@
+s,label,class,numOfInCorrect
+urn:SimpleQuestions:number:9289,who was involved in the battle of tiptons island,http://api.stardog.com/Agent,31
+urn:SimpleQuestions:number:9289,who was involved in the battle of tiptons island,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:9289,Who produced the recording sorry?,http://api.stardog.com/Agent,31
+urn:SimpleQuestions:number:2466,who composed the composition alicia ross,http://api.stardog.com/Agent,31
+urn:SimpleQuestions:number:2466,who composed the composition alicia ross,http://api.stardog.com/Place,31
+urn:SimpleQuestions:number:9529,which scottish family was involved in the stuart period,http://api.stardog.com/TopicalConcept,31
+urn:SimpleQuestions:number:9529,which scottish family was involved in the stuart period,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:9529,what genre does derrick hodge perform,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:9289,Who produced the recording sorry?,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:9529,what genre does derrick hodge perform,http://api.stardog.com/TopicalConcept,31
+urn:SimpleQuestions:number:16254,What is the name of a social enterprise,http://api.stardog.com/Work,31
+urn:SimpleQuestions:number:16254,What is the nationality of singer blessed?,http://api.stardog.com/Place,31
+urn:SimpleQuestions:number:2466,from which family does the family member huisheng belong to?,http://api.stardog.com/Place,31
+urn:SimpleQuestions:number:16254,What is the nationality of singer blessed?,http://api.stardog.com/Work,31
+urn:SimpleQuestions:number:16254,What is the name of a social enterprise,http://api.stardog.com/Place,31
+urn:SimpleQuestions:number:2466,What is the ethnicity of romani rose,http://api.stardog.com/Agent,31
+urn:SimpleQuestions:number:2466,from which family does the family member huisheng belong to?,http://api.stardog.com/Agent,31
+urn:SimpleQuestions:number:2466,What is the ethnicity of romani rose,http://api.stardog.com/Place,31
+urn:SimpleQuestions:number:2466,who composed the composition alicia ross,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:2466,from which family does the family member huisheng belong to?,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:10412,what types of music is played by fischerspooner,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:10412,Where was munroe released?,http://api.stardog.com/TopicalConcept,31
+urn:SimpleQuestions:number:13250,what type of music is earnest woodall?,http://api.stardog.com/EthnicGroup,31
+urn:SimpleQuestions:number:11947,who was the editor for malcolm campbell,http://api.stardog.com/Work,31
+urn:SimpleQuestions:number:10922,who was the cinematographer for the film peter robertson,http://api.stardog.com/Work,31

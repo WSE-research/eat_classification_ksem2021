@@ -1,0 +1,126 @@
+question;label;suggested
+Where is Rider College ?;Number;Place
+Where is the Bulls basketball team based ?;Number;Place
+Where is the actress , Marion Davies , buried ?;Number;Place
+Where does the opera singer Ileana Cotrubas come from ?;Number;Place
+Where did Bill Gates go to college ?;Number;Place
+Where is Amsterdam ?;Number;Place
+Where is the group M People from ?;Number;Place
+Where is former Pro wrestler Johnny `` Rubber Man '' Walker ?;Number;Place
+Where is Ocho Rios ?;Number;Place
+What killed Bob Marley ?;Number;Disease
+Where is Tufts University ?;Number;Place
+Where is Belize located ?;Number;Place
+Where was Pythagoras born ?;Number;Place
+What piece of jewelry is pictured on Monopoly 's Luxury Tax space ?;Number;Currency
+Where did Honecker rule ?;Number;Place
+Where is the world 's most active volcano located ?;Number;Place
+Where is Windsor Castle ?;Number;Place
+Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place ?;Number;Place
+Where was Tesla born ?;Number;Place
+Where is Erykah Badu originally from ?;Number;Place
+Where was George Washington born ?;Number;Place
+Where did bocci originate ?;Number;Place
+In what part of Africa is Mozambique located ?;Number;Place
+What county is Chicago in ?;Number;Place
+Where are the Austerlitz and Victor Hugo subway stops ?;Number;Place
+Where are the leading medical groups specializing in lung diseases ?;Number;Place
+Where were the 196 Summer Olympics held ?;Number;Place
+Where was Christopher Columbus born ?;Number;Place
+Where is Webster University ?;Number;Place
+Where did George of the Jungle live ?;Number;Place
+Where did the world come from ?;Number;Place
+Where was Poe born ?;Number;Place
+Where did the Maya people live ?;Number;Place
+What did Benny Carter play ?;Number;Work
+Where was George Washington born ?;Number;Place
+Where do the Grimace and Mayor McCheese live ?;Number;Place
+Where did the Battle of the Bulge take place ?;Number;Place
+Which of the five senses develops first ?;Number;AnatomicalStructure
+What were the ceremony traditions like during the Elizabethian times ?;Number;Event
+Where does the Santa Fe Trail begin and end ?;Number;Place
+What is the highest continent ?;Number;Place
+Where did the Wright brothers make their first flight ?;Number;Place
+Where is the massive North Korean nuclear complex located ?;Number;Place
+Where is Sinn Fein 's headquarters ?;Number;Place
+What does a farrier put shoes on ?;Number;AnatomicalStructure
+Where is Rider College located ?;Number;Place
+What was Joe Namath 's first contract worth ?;Number;Currency
+Where is Dartmouth College ?;Number;Place
+Where is the bridge over the river Kwai ?;Number;Place
+Where is the Mayo Clinic ?;Number;Place
+On what continent is Mozambique ?;Number;Place
+Where is Natchitoches , Louisiana ?;Number;Place
+Where did Woodstock take place ?;Number;Place
+Where did Ty Cobb grow up ?;Number;Place
+What is the location of McCarren Airport ?;Number;Place
+Where is the Isle of Man ?;Number;Place
+Where is Logan Airport ?;Number;Place
+Where is McCarren Airport located ?;Number;Place
+Where is Melbourne ?;Number;Place
+Where was Lincoln assassinated ?;Number;Place
+What format was the major competition of VHS ?;Number;Work
+What continent is Bolivia on ?;Number;Place
+Where did Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , go to school ?;Number;Place
+Where is Mile High Stadium ?;Number;Place
+Where is the Kentucky Horse Park located ?;Number;Place
+Where does Mother Angelica live ?;Number;Place
+Where was the Cisalpine Republic , 1797-185 , ?;Number;Place
+Where did Hillary Clinton graduate college ?;Number;Place
+What are the components of polyester ?;Number;ChemicalSubstance
+What is Michael Jackson 's father 's name ?;Agent;String
+What is the name of a Greek god ?;Agent;Work
+What was the previous name for the Commonwealth ?;Agent;TopicalConcept
+What terror of the sea did Johnny Horton sing about ?;Species;Work
+What are the Valdez Principles ?;String;TopicalConcept
+What happened to Moon Maiden ?;String;Event
+What is being done about the millennium bug ?;String;Work
+What happened to Pompeii ?;String;Event
+What are field effect transistors ?;String;ChemicalSubstance
+What nuclear process takes place in an H-bomb ?;String;Event
+What is Remembrance Day all about ?;String;Event
+What is cosmology ?;String;Work
+What happened to Phillip Taylor Kramer ?;String;Event
+What is the C programming language ?;String;Language
+What is the orgin of xoxoxox ?;String;ChemicalSubstance
+What are some fun things to do in Cozumel , Mexico for teenagers ?;String;Activity
+Who is Johnny Carson ?;String;Agent
+What are the alveoli ?;String;AnatomicalStructure
+What is the Hub of London ?;String;Place
+Who is Robin Williams ?;String;Agent
+What is Larry King 's job ?;String;Agent
+What was the Long March in China ?;String;Event
+Who was Jane Goodall ?;String;Agent
+What ever happened to the once popular Yale Lock Company ?;String;Event
+What did John F. Kennedy consider his greatest blunder in office ?;String;Event
+Who is Peter Weir ?;String;Agent
+What is dew point ?;String;Place
+What do Japanese school uniforms look like ?;String;Colour
+What is Cabarnet Sauvignon ?;String;Food
+What happened in the Long March ?;String;Event
+Who is Shirley MacLaine ?;String;Agent
+What is the virus HIV ?;String;Disease
+Who is Charles Lindbergh ?;String;Agent
+Who is William Wordsworth ?;String;Agent
+What happened during the Blackhawk Indian war of 1832 ?;String;Event
+Who is Henry Butler ?;String;Agent
+What is spaceball played on ?;String;Work
+What happened in the city of Dogtown in 1899 ?;String;Event
+Who was Ezra Taft Benson ?;String;Agent
+What is pasta ?;String;Food
+What is the occupation of Nicholas Cage ?;String;Activity
+Who was William Henry Harrison ?;String;Agent
+What is ethylene ?;String;ChemicalSubstance
+What is Candlemas Day ?;String;DateTime
+What is the largest variety of cactus ?;String;Species
+Who is Stephen Hawking ?;String;Agent
+What is an annotated bibliography ?;String;Work
+What is an auto-commentary ?;String;Work
+What is the AIM-54C Phoenix ?;String;MeanOfTransportation
+What is the chemical formula for napalm ?;String;ChemicalSubstance
+What does Robin Williams do ?;String;Work
+What is it like to experience a near death episode ?;String;Number
+What is Shirley MacLaine known as ?;TopicalConcept;Work
+What is the former name of Zimbabwe ?;TopicalConcept;String
+What is the Scotch `` for people who know the difference '' ?;TopicalConcept;Food
+What is the main ingredient of yogurt ?;ChemicalSubstance;Food

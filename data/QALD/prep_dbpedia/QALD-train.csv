@@ -1,0 +1,394 @@
+question;questionText;type
+urn:QALD:id:1;List all boardgames by GMT.;Activity
+urn:QALD:id:290;List all games by GMT.;Activity
+urn:QALD:id:4;In which U.S. state is Area 51 located?;Place
+urn:QALD:id:6;Which countries have places with more than two caves?;Place
+urn:QALD:id:7;Where did Abraham Lincoln die?;Place
+urn:QALD:id:8;Which airports does Air China serve?;Place
+urn:QALD:id:16;Which state of the USA has the highest population density?;Place
+urn:QALD:id:22;Which state of the United States of America has the highest density?;Place
+urn:QALD:id:25;Which U.S. states are in the same timezone as Utah?;Place
+urn:QALD:id:26;Which U.S. states possess gold minerals?;Place
+urn:QALD:id:29;Show me all museums in London.;Place
+urn:QALD:id:30;Which caves have more than 3 entrances?;Place
+urn:QALD:id:36;Which states border Illinois?;Place
+urn:QALD:id:38;Where did Hillel Slovak die?;Place
+urn:QALD:id:45;Where do the Red Sox play?;Place
+urn:QALD:id:47;Which volcanos in Japan erupted since 2000?;Place
+urn:QALD:id:48;Which bridges cross the Seine?;Place
+urn:QALD:id:55;Give me the capitals of all countries that the Himalayas run through.;Place
+urn:QALD:id:57;Which rivers flow into a German lake?;Place
+urn:QALD:id:59;Give me all islands that belong to Japan.;Place
+urn:QALD:id:65;What is the highest place of the Urals?;Place
+urn:QALD:id:68;Give me all world heritage sites designated within the past two years.;Place
+urn:QALD:id:76;How many museums does Paris have?;Place
+urn:QALD:id:77;Where was JFK assassinated?;Place
+urn:QALD:id:81;To which countries does the Himalayan mountain system extend?;Place
+urn:QALD:id:95;In which city was the former Dutch queen Juliana buried?;Place
+urn:QALD:id:102;Which countries adopted the Euro?;Place
+urn:QALD:id:108;Which U.S. states are in the same time zone as Utah?;Place
+urn:QALD:id:110;Which country has the most official languages?;Place
+urn:QALD:id:113;Give me all libraries established earlier than 1400.;Place
+urn:QALD:id:115;In which U.S. state is Mount McKinley located?;Place
+urn:QALD:id:120;What is the highest mountain?;Place
+urn:QALD:id:134;Which countries have more than two official languages?;Place
+urn:QALD:id:135;Which countries have more than ten caves?;Place
+urn:QALD:id:143;Give me a list of all lakes in Denmark.;Place
+urn:QALD:id:145;Show me all English Gothic buildings in Kent.;Place
+urn:QALD:id:147;In which countries can you pay using the West African CFA franc?;Place
+urn:QALD:id:149;What is the longest river?;Place
+urn:QALD:id:154;What is the smallest city by area in Germany?;Place
+urn:QALD:id:165;What is the second highest mountain on Earth?;Place
+urn:QALD:id:172;In which U.S. state is Fort Knox located?;Place
+urn:QALD:id:173;Give me all cities in New Jersey with more than 100000 inhabitants.;Place
+urn:QALD:id:174;Which mountains are higher than the Nanga Parbat?;Place
+urn:QALD:id:189;What is the largest city in america?;Place
+urn:QALD:id:196;Which airports does Yeti Airlines serve?;Place
+urn:QALD:id:197;Where is the birthplace of Goethe?;Place
+urn:QALD:id:201;What is the highest mountain in Saxony Germany?;Place
+urn:QALD:id:203;In which country is Mecca located?;Place
+urn:QALD:id:205;In which country does the Nile start?;Place
+urn:QALD:id:206;In which state Penn State University is located?;Place
+urn:QALD:id:207;What is the biggest stadium in Spain?;Place
+urn:QALD:id:215;What is the location of the Houses of Parliament?;Place
+urn:QALD:id:224;Which river does the Brooklyn Bridge cross?;Place
+urn:QALD:id:231;Give me all launch pads operated by NASA.;Place
+urn:QALD:id:237;Where is Sungkyunkwan University?;Place
+urn:QALD:id:246;Which cities does the Weser flow through?;Place
+urn:QALD:id:251;What is the longest river in the world?;Place
+urn:QALD:id:257;In which ancient empire could you pay with cocoa beans?;Place
+urn:QALD:id:262;With how many countries Iran has borders?;Place
+urn:QALD:id:271;Which country does the creator of Miffy come from?;Place
+urn:QALD:id:273;In what city is the Heineken brewery?;Place
+urn:QALD:id:276;From which region is the Melon de Bourgogne?;Place
+urn:QALD:id:279;Which city has the most inhabitants?;Place
+urn:QALD:id:280;What is Donald Trump's main business?;Place
+urn:QALD:id:289;What is the highest mountain in Italy?;Place
+urn:QALD:id:292;In which city did Nikos Kazantzakis die?;Place
+urn:QALD:id:294;In which country is the Limerick Lake?;Place
+urn:QALD:id:301;What is the largest city in Australia?;Place
+urn:QALD:id:312;What country is Sitecore from?;Place
+urn:QALD:id:313;Give me the birth place of Frank Sinatra.;Place
+urn:QALD:id:317;What is the capital of Cameroon?;Place
+urn:QALD:id:332;Which city has the least inhabitants?;Place
+urn:QALD:id:340;Which building after the Burj Khalifa has the most floors?;Place
+urn:QALD:id:348;Where was Bach born?;Place
+urn:QALD:id:349;Which city has the oldest running metro?;Place
+urn:QALD:id:354;What country is Mount Everest in?;Place
+urn:QALD:id:357;What is the bridge with the longest span?;Place
+urn:QALD:id:364;In which UK city are the headquarters of the MI6?;Place
+urn:QALD:id:366;In which city does the Chile Route 68 end?;Place
+urn:QALD:id:377;In which city does Sylvester Stallone live?;Place
+urn:QALD:id:380;What is the capital of Canada?;Place
+urn:QALD:id:387;Where in France is sparkling wine produced?;Place
+urn:QALD:id:393;What are the five boroughs of New York?;Place
+urn:QALD:id:395;In which country does the Ganges start?;Place
+urn:QALD:id:399;In which city did John F. Kennedy die?;Place
+urn:QALD:id:400;What is the highest mountain in Australia?;Place
+urn:QALD:id:404;In which city are the headquarters of the United Nations?;Place
+urn:QALD:id:406;In which countries do people speak Japanese?;Place
+urn:QALD:id:408;Which museum in New York has the most visitors?;Place
+urn:QALD:id:10;What are the official languages of the Philippines?;Language
+urn:QALD:id:114;Which programming languages were influenced by Perl?;Language
+urn:QALD:id:122;Which programming languages influenced Javascript?;Language
+urn:QALD:id:187;Which languages are spoken in Estonia?;Language
+urn:QALD:id:247;In which programming language is GIMP written?;Language
+urn:QALD:id:291;What is the official language of Suriname?;Language
+urn:QALD:id:2;Who developed Skype?;Agent
+urn:QALD:id:3;Which people were born in Heraklion?;Agent
+urn:QALD:id:5;Who is the mayor of New York City?;Agent
+urn:QALD:id:9;Give me all actors starring in movies directed by and starring William Shatner.;Agent
+urn:QALD:id:15;Who is the owner of Universal Studios?;Agent
+urn:QALD:id:17;Which monarchs were married to a German?;Agent
+urn:QALD:id:18;Which organizations were founded in 1950?;Agent
+urn:QALD:id:19;Who created the comic Captain America?;Agent
+urn:QALD:id:20;Give me the Apollo 14 astronauts.;Agent
+urn:QALD:id:21;Who wrote the book The pillars of the Earth?;Agent
+urn:QALD:id:24;Give me a list of all trumpet players that were bandleaders.;Agent
+urn:QALD:id:31;Who is the tallest player of the Atlanta Falcons?;Agent
+urn:QALD:id:33;Give me all writers that won the Nobel Prize in literature.;Agent
+urn:QALD:id:34;Show me all basketball players that are higher than 2 meters.;Agent
+urn:QALD:id:37;Who developed Minecraft?;Agent
+urn:QALD:id:40;Give all swimmers that were born in Moscow.;Agent
+urn:QALD:id:41;Give me all cosmonauts.;Agent
+urn:QALD:id:42;Give me all Swiss non-profit organizations.;Agent
+urn:QALD:id:43;Which presidents were born in 1945?;Agent
+urn:QALD:id:46;Show a list of soccer clubs that play in the Bundesliga.;Agent
+urn:QALD:id:53;Who are the four youngest MVP basketball players?;Agent
+urn:QALD:id:54;Give me all companies in Munich.;Agent
+urn:QALD:id:61;Give me all Apollo 14 astronauts.;Agent
+urn:QALD:id:62;Which companies have more than 1 million employees?;Agent
+urn:QALD:id:66;Who is the governor of Wyoming?;Agent
+urn:QALD:id:69;Give me all actors who were born in Paris after 1950.;Agent
+urn:QALD:id:71;Give me all Australian nonprofit organizations.;Agent
+urn:QALD:id:72;Which pope succeeded John Paul II?;Agent
+urn:QALD:id:73;Give me all ESA astronauts.;Agent
+urn:QALD:id:74;Who was president of Pakistan in 1978?;Agent
+urn:QALD:id:75;Who is the owner of Rolls-Royce?;Agent
+urn:QALD:id:78;Give me all federal chancellors of Germany.;Agent
+urn:QALD:id:79;Show me everyone who was born on Halloween.;Agent
+urn:QALD:id:82;Which actors were born in Germany?;Agent
+urn:QALD:id:84;Who produced the most films?;Agent
+urn:QALD:id:86;Give me all actors who were born in Berlin.;Agent
+urn:QALD:id:87;Who created Goofy?;Agent
+urn:QALD:id:99;Who killed John Lennon?;Agent
+urn:QALD:id:100;Which writers studied in Istanbul?;Agent
+urn:QALD:id:101;Give me all Australian metalcore bands.;Agent
+urn:QALD:id:112;Which actor played Chewbacca?;Agent
+urn:QALD:id:116;What airlines are part of the SkyTeam alliance?;Agent
+urn:QALD:id:118;Give me all Methodist politicians.;Agent
+urn:QALD:id:121;Which poet wrote the most books?;Agent
+urn:QALD:id:123;Which musician wrote the most books?;Agent
+urn:QALD:id:126;Which instruments does Cat Stevens play?;Agent
+urn:QALD:id:128;Give me all actors called Baldwin.;Agent
+urn:QALD:id:129;Who wrote The Hunger Games?;Agent
+urn:QALD:id:133;Which actor was casted in the most movies?;Agent
+urn:QALD:id:139;Which soccer players were born on Malta?;Agent
+urn:QALD:id:146;Who is the manager of Real Madrid?;Agent
+urn:QALD:id:150;Which organizations were founded in 1930?;Agent
+urn:QALD:id:152;Who has Tom Cruise been married to?;Agent
+urn:QALD:id:155;What is the ruling party in Lisbon?;Agent
+urn:QALD:id:159;What does ICRO stand for?;Agent
+urn:QALD:id:162;Who played Agent Smith in Matrix?;Agent
+urn:QALD:id:163;Which Greek parties are pro-European?;Agent
+urn:QALD:id:164;Give me a list of all bandleaders that play trumpet.;Agent
+urn:QALD:id:169;Which Chess players died in the same place they were born in?;Agent
+urn:QALD:id:170;Who is the owner of Facebook?;Agent
+urn:QALD:id:178;List the seven kings of Rome.;Agent
+urn:QALD:id:179;Give me all people that were born in Vienna and died in Berlin.;Agent
+urn:QALD:id:181;Show me all the breweries in Australia.;Agent
+urn:QALD:id:183;Give me all soccer clubs in Spain.;Agent
+urn:QALD:id:184;Who produced films starring Natalie Portman?;Agent
+urn:QALD:id:186;Who is the heaviest player of the Chicago Bulls?;Agent
+urn:QALD:id:190;Who was the pope that founded the Vatican Television?;Agent
+urn:QALD:id:191;Who discovered Ceres?;Agent
+urn:QALD:id:192;Who is the king of the Netherlands?;Agent
+urn:QALD:id:194;What is the alma mater of the chancellor of Germany Angela Merkel?;Agent
+urn:QALD:id:195;Who wrote the book Les Piliers de la terre?;Agent
+urn:QALD:id:200;Who created Wikipedia?;Agent
+urn:QALD:id:202;Who is the current federal minister of finance in Germany?;Agent
+urn:QALD:id:204;Who played Gus Fring in Breaking Bad?;Agent
+urn:QALD:id:210;Who created Batman?;Agent
+urn:QALD:id:212;Who are the developers of DBpedia?;Agent
+urn:QALD:id:219;Who was the first King of England?;Agent
+urn:QALD:id:220;Who is the editor of Forbes?;Agent
+urn:QALD:id:221;Which awards did Douglas Hofstadter win?;Agent
+urn:QALD:id:222;Who is the youngest Darts player?;Agent
+urn:QALD:id:232;Who developed the video game World of Warcraft?;Agent
+urn:QALD:id:238;Who is the author of the interpretation of dreams?;Agent
+urn:QALD:id:241;Who developed Slack?;Agent
+urn:QALD:id:248;Which university did Angela Merkel attend?;Agent
+urn:QALD:id:253;Which companies produce hovercrafts?;Agent
+urn:QALD:id:254;Who was the wife of U.S. president Lincoln?;Agent
+urn:QALD:id:259;Who composed the soundtrack for Cameron's Titanic?;Agent
+urn:QALD:id:263;Which electronics companies were founded in Beijing?;Agent
+urn:QALD:id:264;Who was the successor of John F. Kennedy?;Agent
+urn:QALD:id:265;Who is the mayor of Paris?;Agent
+urn:QALD:id:269;Which Indian company has the most employees?;Agent
+urn:QALD:id:270;Who was John F. Kennedy's vice president?;Agent
+urn:QALD:id:275;List the children of Margaret Thatcher.;Agent
+urn:QALD:id:285;Who is the mayor of the capital of French Polynesia?;Agent
+urn:QALD:id:286;Give me all actors starring in movies directed by William Shatner.;Agent
+urn:QALD:id:296;Give me all members of Prodigy.;Agent
+urn:QALD:id:300;Who is the mayor of Rotterdam?;Agent
+urn:QALD:id:302;Who was married to president Chirac?;Agent
+urn:QALD:id:306;Who is the tallest basketball player?;Agent
+urn:QALD:id:310;To which party does the mayor of Paris belong?;Agent
+urn:QALD:id:311;Who is the Formula 1 race driver with the most races?;Agent
+urn:QALD:id:315;Who is the son of Sonny and Cher?;Agent
+urn:QALD:id:320;Who is the oldest child of Meryl Streep?;Agent
+urn:QALD:id:322;What does IYCM stand for?;Agent
+urn:QALD:id:328;Which scientist is known for the Manhattan Project and the Nobel Peace Prize?;Agent
+urn:QALD:id:330;Who composed the music for Harold and Maude?;Agent
+urn:QALD:id:335;Who wrote the book The Pillars of the Earth?;Agent
+urn:QALD:id:337;Who was the doctoral supervisor of Albert Einstein?;Agent
+urn:QALD:id:339;Who was Vincent van Gogh inspired by?;Agent
+urn:QALD:id:345;Who is starring in Spanish movies produced by Benicio del Toro?;Agent
+urn:QALD:id:352;Who is the host of the BBC Wildlife Specials?;Agent
+urn:QALD:id:359;Who was buried in the Great Pyramid of Giza?;Agent
+urn:QALD:id:365;Who created Family Guy?;Agent
+urn:QALD:id:367;Give me the grandchildren of Elvis Presley.;Agent
+urn:QALD:id:373;Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?;Agent
+urn:QALD:id:379;Who wrote the song Hotel California?;Agent
+urn:QALD:id:381;Who is the mayor of Tel Aviv?;Agent
+urn:QALD:id:384;Who was the first to climb Mount Everest?;Agent
+urn:QALD:id:394;Give me all Canadian Grunge record labels.;Agent
+urn:QALD:id:396;Who is the founder of Penguin Books?;Agent
+urn:QALD:id:397;Who wrote the Game of Thrones theme?;Agent
+urn:QALD:id:398;Who is the president of Eritrea?;Agent
+urn:QALD:id:403;Give me all Swedish oceanographers.;Agent
+urn:QALD:id:412;Give me all actors starring in Last Action Hero.;Agent
+urn:QALD:id:413;Who discovered Pluto?;Agent
+urn:QALD:id:386;What is the currency of the Czech Republic?;Currency
+urn:QALD:id:402;Give me the currency of China.;Currency
+urn:QALD:id:14;Which other weapons did the designer of the Uzi develop?;Device
+urn:QALD:id:153;Which weapons did Heckler & Koch develop?;Device
+urn:QALD:id:52;What is the most frequent cause of death?;Disease
+urn:QALD:id:176;What are the specialities of the UNC Health Care?;Disease
+urn:QALD:id:372;What did Bruce Carver die from?;Disease
+urn:QALD:id:369;In which military conflicts did Lawrence of Arabia participate?;Event
+urn:QALD:id:80;Which beer originated in Ireland?;Food
+urn:QALD:id:293;What is in a chocolate chip cookie?;Food
+urn:QALD:id:94;Give me all Swedish holidays.;Holiday
+urn:QALD:id:148;Which holidays are celebrated around the world?;Holiday
+urn:QALD:id:305;Which holidays are celebrated around the world? test2;Holiday
+urn:QALD:id:23;Which spaceflights were launched from Baikonur?;MeanOfTransportation
+urn:QALD:id:117;Which ships were called after Benjamin Franklin?;MeanOfTransportation
+urn:QALD:id:167;Which rockets were launched from Baikonur?;MeanOfTransportation
+urn:QALD:id:323;Which types of grapes grow in Oregon?;Species
+urn:QALD:id:64;Give me all soccer clubs in the Premier League.;SportsSeason
+urn:QALD:id:44;What kind of music did Lou Reed play?;TopicalConcept
+urn:QALD:id:11;Give me all Danish films.;Work
+urn:QALD:id:12;Which movies starring Brad Pitt were directed by Guy Ritchie?;Work
+urn:QALD:id:32;What are the top-10 action role-playing video games according to IGN?;Work
+urn:QALD:id:39;What movies does Jesse Eisenberg play in?;Work
+urn:QALD:id:51;Give me all Danish movies.;Work
+urn:QALD:id:63;In which films directed by Garry Marshall was Julia Roberts starring?;Work
+urn:QALD:id:70;Which movies star both Liz Taylor and Richard Burton?;Work
+urn:QALD:id:88;Which music albums contain the song Last Christmas?;Work
+urn:QALD:id:91;Give me all the TV shows with Neil Patrick Harris.;Work
+urn:QALD:id:96;List all the musicals with music by Leonard Bernstein.;Work
+urn:QALD:id:103;Give me all types of eating disorders.;Work
+urn:QALD:id:109;Give me all books written by Danielle Steel.;Work
+urn:QALD:id:119;What other books have been written by the author of The Fault in Our Stars?;Work
+urn:QALD:id:124;Which films starring Clint Eastwood did he direct himself?;Work
+urn:QALD:id:125;Which software has been developed by organizations founded in California?;Work
+urn:QALD:id:136;Show me all songs from Bruce Springsteen released between 1980 and 1990.;Work
+urn:QALD:id:137;Which television shows were created by John Cleese?;Work
+urn:QALD:id:158;List all episodes of the first season of the HBO television series The Sopranos!;Work
+urn:QALD:id:161;Give me all films produced by Hal Roach.;Work
+urn:QALD:id:171;Give me all movies with Tom Cruise.;Work
+urn:QALD:id:182;Give me all films produced by Steven Spielberg with a budget of at least $80 million.;Work
+urn:QALD:id:213;Give me all movies directed by Francis Ford Coppola.;Work
+urn:QALD:id:236;What is the last work of Dan Brown?;Work
+urn:QALD:id:249;List all the musicals with music by Elton John.;Work
+urn:QALD:id:282;Which films did Stanley Kubrick direct?;Work
+urn:QALD:id:295;Give me all video games published by Mean Hamster Software.;Work
+urn:QALD:id:321;Which television shows were created by Walt Disney?;Work
+urn:QALD:id:331;List all episodes of the first season of the HBO television series The Sopranos.;Work
+urn:QALD:id:347;Show me all books in Asimov's Foundation series.;Work
+urn:QALD:id:371;Give me all books by William Goldman with more than 300 pages.;Work
+urn:QALD:id:378;Which books by Kerouac were published by Viking Press?;Work
+urn:QALD:id:383;Show me the book that Muhammad Ali wrote.;Work
+urn:QALD:id:389;Which movies starring Mickey Rourke were directed by Guy Ritchie?;Work
+urn:QALD:id:390;In which films did Julia Roberts as well as Richard Gere play?;Work
+urn:QALD:id:391;Show me Hemingway's autobiography.;Work
+urn:QALD:id:407;Which of Tim Burton's films had the highest budget?;Work
+urn:QALD:id:409;What was the first Queen album?;Work
+urn:QALD:id:411;What was the last movie with Alec Guinness?;Work
+urn:QALD:id:13;Give me the grandchildren of Bruce Lee.;Number
+urn:QALD:id:28;How deep is Lake Placid?;Number
+urn:QALD:id:50;How many films did Hal Roach produce?;Number
+urn:QALD:id:56;How many movies did Park Chan-wook direct?;Number
+urn:QALD:id:58;How many airlines are there?;Number
+urn:QALD:id:60;How many inhabitants does Maribor have?;Number
+urn:QALD:id:83;How much carbs does peanut butter have?;Number
+urn:QALD:id:85;How many employees does Google have?;Number
+urn:QALD:id:90;How many missions does the Soyuz programme have?;Number
+urn:QALD:id:93;What is the net income of Apple?;Number
+urn:QALD:id:97;Give me all companies in the advertising industry.;Number
+urn:QALD:id:105;What was Brazil's lowest rank in the FIFA World Ranking?;Number
+urn:QALD:id:106;How many films did Leonardo DiCaprio star in?;Number
+urn:QALD:id:111;What is the total amount of men and women serving in the FDNY?;Number
+urn:QALD:id:127;How many airlines are members of the Star Alliance?;Number
+urn:QALD:id:140;How many politicians graduated from Columbia University?;Number
+urn:QALD:id:142;Which telecommunications organizations are located in Belgium?;Number
+urn:QALD:id:144;How many children does Eddie Murphy have?;Number
+urn:QALD:id:156;How heavy is Jupiter's lightest moon?;Number
+urn:QALD:id:157;How many employees does IBM have?;Number
+urn:QALD:id:168;How many programming languages are there?;Number
+urn:QALD:id:209;How large is the area of UK?;Number
+urn:QALD:id:216;how much is the elevation of Düsseldorf Airport ?;Number
+urn:QALD:id:217;How much is the population of mexico city ?;Number
+urn:QALD:id:225;How many people live in Poland?;Number
+urn:QALD:id:230;how much is the total population of  european union?;Number
+urn:QALD:id:234;What is the population of Cairo?;Number
+urn:QALD:id:243;In which year was Rachel Stevens born?;Number
+urn:QALD:id:244;How often did Jane Fonda marry?;Number
+urn:QALD:id:250;How many Aldi stores are there?;Number
+urn:QALD:id:256;How many people live in the capital of Australia?;Number
+urn:QALD:id:258;How many theories did Albert Einstein come up with?;Number
+urn:QALD:id:260;Give me the runtime of Toy Story.;Number
+urn:QALD:id:278;how big is the total area of North Rhine- Westphalia?;Number
+urn:QALD:id:283;how much is the population  Iraq?;Number
+urn:QALD:id:284;How many inhabitants does the largest city in Canada have?;Number
+urn:QALD:id:287;How tall is Claudia Schiffer?;Number
+urn:QALD:id:288;how much is the population densty rank of germany?;Number
+urn:QALD:id:298;How high is the lighthouse in Colombo?;Number
+urn:QALD:id:304;How high is the Yokohama Marine Tower?;Number
+urn:QALD:id:307;How many languages are spoken in Turkmenistan?;Number
+urn:QALD:id:316;How many ethnic groups live in Slovenia?;Number
+urn:QALD:id:319;How many pages does War and Peace have?;Number
+urn:QALD:id:327;How many states are in Mexico?;Number
+urn:QALD:id:329;How much did the Lego Movie cost?;Number
+urn:QALD:id:342;How much did Pulp Fiction cost?;Number
+urn:QALD:id:351;How many people live in Eurasia?;Number
+urn:QALD:id:353;What is the total population of Melbourne, Florida?;Number
+urn:QALD:id:362;How many children did Benjamin Franklin have?;Number
+urn:QALD:id:363;How tall is Michael Jordan?;Number
+urn:QALD:id:385;How many languages are spoken in Colombia?;Number
+urn:QALD:id:392;How tall is Amazon Eve?;Number
+urn:QALD:id:104;Was Marc Chagall a jew?;Boolean
+urn:QALD:id:107;Was Margaret Thatcher a chemist?;Boolean
+urn:QALD:id:131;Is Christian Bale starring in Batman Begins?;Boolean
+urn:QALD:id:160;Does the new Battlestar Galactica series have more episodes than the old one?;Boolean
+urn:QALD:id:166;Is Egypts largest city also its capital?;Boolean
+urn:QALD:id:180;Is Darth Vader Luke’s father?;Boolean
+urn:QALD:id:193;Is Cola a beverage?;Boolean
+urn:QALD:id:198;Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?;Boolean
+urn:QALD:id:211;Was Sigmund Freud married?;Boolean
+urn:QALD:id:214;Are tree frogs a type of amphibian?;Boolean
+urn:QALD:id:223;Is horse racing a sport?;Boolean
+urn:QALD:id:227;Is the wife of president Obama called Michelle?;Boolean
+urn:QALD:id:235;Is Frank Herbert still alive?;Boolean
+urn:QALD:id:245;Was the wife of president Lincoln called Mary?;Boolean
+urn:QALD:id:266;Did Arnold Schwarzenegger attend a university?;Boolean
+urn:QALD:id:267;Is James Bond married?;Boolean
+urn:QALD:id:268;Does the Isar flow into a lake?;Boolean
+urn:QALD:id:274;Is Barack Obama a democrat?;Boolean
+urn:QALD:id:308;Did Che Guevara have children?;Boolean
+urn:QALD:id:309;Did Kaurismäki ever win the Grand Prix at Cannes?;Boolean
+urn:QALD:id:314;Is Christian Bale starring in Velvet Goldmine?;Boolean
+urn:QALD:id:318;Was Natalie Portman born in the United States?;Boolean
+urn:QALD:id:324;Was U.S. president Jackson involved in a war?;Boolean
+urn:QALD:id:326;Did Tesla win a nobel prize in physics?;Boolean
+urn:QALD:id:334;Does Neymar play for Real Madrid?;Boolean
+urn:QALD:id:336;Do Prince Harry and Prince William have the same parents?;Boolean
+urn:QALD:id:338;Does Breaking Bad have more episodes than Game of Thrones?;Boolean
+urn:QALD:id:343;Is proinsulin a protein?;Boolean
+urn:QALD:id:344;Do Urdu and Persian have a common root?;Boolean
+urn:QALD:id:346;Is Lake Baikal bigger than the Great Bear Lake?;Boolean
+urn:QALD:id:358;Is there a video game called Battle Chess?;Boolean
+urn:QALD:id:360;Does the Ford Motor Company have a manufacturing plant in Malaysia?;Boolean
+urn:QALD:id:361;Did Socrates influence Aristotle?;Boolean
+urn:QALD:id:374;Does Abraham Lincoln's death place have a website?;Boolean
+urn:QALD:id:375;Did Elvis Presley have children?;Boolean
+urn:QALD:id:376;Is Michelle Obama the wife of Barack Obama?;Boolean
+urn:QALD:id:405;Is Rita Wilson the wife of Tom Hanks?;Boolean
+urn:QALD:id:35;When was the Statue of Liberty built?;DateTime
+urn:QALD:id:89;When was Alberta admitted as province?;DateTime
+urn:QALD:id:92;When were the Hells Angels founded?;DateTime
+urn:QALD:id:138;When did Latvia join the EU?;DateTime
+urn:QALD:id:141;Give me the birthdays of all actors of the television show Charmed.;DateTime
+urn:QALD:id:177;When was Olof Palme shot?;DateTime
+urn:QALD:id:218;when was the founding date of french fifth republic?;DateTime
+urn:QALD:id:226;When was the last episode of the TV series Friends aired?;DateTime
+urn:QALD:id:239;When was the death  of  Shakespeare?;DateTime
+urn:QALD:id:252;When was John Adams born?;DateTime
+urn:QALD:id:281;When will start the final match of the football world cup 2018?;DateTime
+urn:QALD:id:325;When was the Titanic completed?;DateTime
+urn:QALD:id:356;When did Operation Overlord commence?;DateTime
+urn:QALD:id:368;When did the Ming dynasty dissolve?;DateTime
+urn:QALD:id:388;When did Boris Becker end his active career?;DateTime
+urn:QALD:id:27;Who is the daughter of Ingrid Bergman married to?;String
+urn:QALD:id:49;What is the official color of the University of Oxford?;String
+urn:QALD:id:151;What is the birth name of Angela Merkel?;String
+urn:QALD:id:175;Give me all B-sides of the Ramones.;String
+urn:QALD:id:229;Who is 8th president of US?;String
+urn:QALD:id:233;What is the birth name of Adele?;String
+urn:QALD:id:255;Which species does an elephant belong?;String
+urn:QALD:id:299;Who are the writers of the Wall album of Pink Floyd?;String
+urn:QALD:id:341;What was the final result of the War of the Roses?;String
+urn:QALD:id:401;Who writes the Farmers' Almanac?;String
+urn:QALD:id:410;What was the first name of the band Queens of the Stone Age?;String
+urn:QALD:id:242;Where is the origin of Carolina reaper?;String

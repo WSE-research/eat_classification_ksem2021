@@ -1,0 +1,20 @@
+experiment,label,classLabel
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When was Jack Wolfskin founded?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,How short is the shortest active NBA player?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,What is the founding year of the brewery that produces Pilsner Urquell?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,What is the wavelength of Indigo?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did Paraguay proclaim its independence?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When was the De Beers company founded?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did princess Diana die?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did the Boston Tea Party take place?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did Muhammad die?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,What is the revenue of IBM?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did Michael Jackson die?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did Finland join the EU?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When was Carlo Giuliani shot?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,When did Draculas creator die?,NUM
+urn:experiment:da218335843d49009ddb09e1032b9bcc,Are there any castles in the United States?,BOOL
+urn:experiment:da218335843d49009ddb09e1032b9bcc,Are Taiko some kind of Japanese musical instrument?,BOOL
+urn:experiment:da218335843d49009ddb09e1032b9bcc,Is Pamela Anderson a vegan?,BOOL
+urn:experiment:da218335843d49009ddb09e1032b9bcc,Is the wife of President Obama called Michelle?,BOOL

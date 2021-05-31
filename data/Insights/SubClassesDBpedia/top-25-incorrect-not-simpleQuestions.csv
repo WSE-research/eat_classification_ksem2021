@@ -1,0 +1,26 @@
+s,label,class,numOfInCorrect
+urn:LCQuAD:id:1722,What ethinicity of Linda Hogan is also the state of origin of Holmes Colbert ?,http://api.stardog.com/EthnicGroup,31
+urn:LCQuAD:id:3993,What are the airline hubs of Cascade Airways?,http://api.stardog.com/EthnicGroup,31
+urn:LCQuAD:id:2861,What is a common ingredient used in boyt Blodpalt and Kaszanka ?,http://api.stardog.com/AnatomicalStructure,31
+urn:LCQuAD:id:419,List the ingredient of Blodpalt ?,http://api.stardog.com/AnatomicalStructure,31
+urn:LCQuAD:id:4107,List all the awards won by the artist who has won SIGGRAPH ?,http://api.stardog.com/Event,31
+urn:LCQuAD:id:3877,What is the faith of Kwai Chang Caine ?,http://api.stardog.com/Food,31
+urn:LCQuAD:id:4536,Whose commanders are John Mc Ewen and Park Chunghee?,http://api.stardog.com/Event,31
+urn:LCQuAD:id:2869,what kind of things play on WBIG FM?,http://api.stardog.com/Place,31
+urn:LCQuAD:id:1597,Whose leaders are Willem-Alexander and Fredis Refunjol?,http://api.stardog.com/Place,31
+urn:LCQuAD:id:1990,Companies founded in Taiwan have typically which divisions?,http://api.stardog.com/Place,31
+urn:LCQuAD:id:504,What honours did Reigh Count receive?,http://api.stardog.com/Place,31
+urn:WebQuestionsTest:id:1597,which continental congress approve the declaration of independence?,http://api.stardog.com/TopicalConcept,31
+urn:LCQuAD:id:1843,What is the automobile platform of Chiva bus ?,http://api.stardog.com/Agent,31
+urn:LCQuAD:id:2729,Horses grandsired by Sundridge  have won which awards?,http://api.stardog.com/Place,31
+urn:LCQuAD:id:4175,What kind of games are made by Interplay Entertainment?,http://api.stardog.com/String,31
+urn:LCQuAD:id:3486,Who all have been presenters on shows by the NBC?,http://api.stardog.com/String,31
+urn:LCQuAD:id:1969,Daniel L D Granger and Job Durfee have based their political career in which US state?,http://api.stardog.com/String,31
+urn:LCQuAD:id:4363,In which countries is coconut used as a food ingredient?,http://api.stardog.com/String,31
+urn:LCQuAD:id:4079,In which city was the film star of Singhasan Battisi born ?,http://api.stardog.com/String,31
+urn:LCQuAD:id:34,"Which kind of conventions are held in Rosemont, Illinois?",http://api.stardog.com/String,31
+urn:LCQuAD:id:2993,Which state does Jerome B. Chaffee belong ?,http://api.stardog.com/String,31
+urn:LCQuAD:id:4521,Which company has developed games whose music is done by Gerard Marino?,http://api.stardog.com/Work,31
+urn:LCQuAD:id:3952,Who composed the episode after which came Butter's Very own Episode?,http://api.stardog.com/Work,31
+urn:LCQuAD:id:3644,"List the employments of people who died in Tampa, Florida.",http://api.stardog.com/PersonFunction,31
+urn:LCQuAD:id:3798,What genre's softwares are released with a GNU GPL license?,http://api.stardog.com/TopicalConcept,31

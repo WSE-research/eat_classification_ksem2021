@@ -1,0 +1,15 @@
+question;label;suggested
+How many museums does Paris have?;Place;Number
+What does ICRO stand for?;Agent;String
+Give me all soccer clubs in Spain.;Agent;SportsSeason
+What does IYCM stand for?;Agent;String
+Give me the grandchildren of Elvis Presley.;Agent;String
+Give me all types of eating disorders.;Work;Disease
+Give me the grandchildren of Bruce Lee.;Number;String
+Give me all companies in the advertising industry.;Number;SportsSeason
+Give me the birthdays of all actors of the television show Charmed.;DateTime;Holiday
+Who is the daughter of Ingrid Bergman married to?;String;Agent
+Who is 8th president of US?;String;Agent
+Who are the writers of the Wall album of Pink Floyd?;String;Agent
+Who writes the Farmers' Almanac?;String;Agent
+Where is the origin of Carolina reaper?;String;Place

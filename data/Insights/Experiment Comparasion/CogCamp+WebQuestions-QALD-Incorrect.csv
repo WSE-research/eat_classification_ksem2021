@@ -1,0 +1,9 @@
+experiment,label,classLabel
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,What is the area code of Berlin?,RES
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,What is the time zone of Salt Lake City?,RES
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,What is the founding year of the brewery that produces Pilsner Urquell?,NUM
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?,NUM
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,Is the wife of President Obama called Michelle?,BOOL
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,Is Pamela Anderson a vegan?,BOOL
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,Are Taiko some kind of Japanese musical instrument?,BOOL
+urn:experiment:d7955f1be1fb448aaa6f102f222fbfe3,Are there any castles in the United States?,BOOL

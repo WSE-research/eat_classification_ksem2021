@@ -1,0 +1,423 @@
+<urn:QALD:id:4> rdf:type <urn:question> .
+<urn:QALD:id:4> rdfs:label "Which airports are located in California, USA?" .
+<urn:QALD:id:4> <urn:class> <Place> .
+<urn:QALD:id:44> rdf:type <urn:question> .
+<urn:QALD:id:44> rdfs:label "Which European countries have a constitutional monarchy?" .
+<urn:QALD:id:44> <urn:class> <Place> .
+<urn:QALD:id:138> rdf:type <urn:question> .
+<urn:QALD:id:138> rdfs:label "Give me the capitals of all countries in Africa." .
+<urn:QALD:id:138> <urn:class> <Place> .
+<urn:QALD:id:42> rdf:type <urn:question> .
+<urn:QALD:id:42> rdfs:label "Which countries have places with more than two caves?" .
+<urn:QALD:id:42> <urn:class> <Place> .
+<urn:QALD:id:177> rdf:type <urn:question> .
+<urn:QALD:id:177> rdfs:label "Which bridges are of the same type as the Manhattan Bridge?" .
+<urn:QALD:id:177> <urn:class> <Place> .
+<urn:QALD:id:159> rdf:type <urn:question> .
+<urn:QALD:id:159> rdfs:label "Which countries are connected by the Rhine?" .
+<urn:QALD:id:159> <urn:class> <Place> .
+<urn:QALD:id:71> rdf:type <urn:question> .
+<urn:QALD:id:71> rdfs:label "Give me all spacecrafts that flew to Mars." .
+<urn:QALD:id:71> <urn:class> <Place> .
+<urn:QALD:id:126> rdf:type <urn:question> .
+<urn:QALD:id:126> rdfs:label "Sean Parnell was the governor of which U.S. state?" .
+<urn:QALD:id:126> <urn:class> <Place> .
+<urn:QALD:id:50> rdf:type <urn:question> .
+<urn:QALD:id:50> rdfs:label "What is the highest volcano in Africa?" .
+<urn:QALD:id:50> <urn:class> <Place> .
+<urn:QALD:id:156> rdf:type <urn:question> .
+<urn:QALD:id:156> rdfs:label "Where is Fort Knox located?" .
+<urn:QALD:id:156> <urn:class> <Place> .
+<urn:QALD:id:103> rdf:type <urn:question> .
+<urn:QALD:id:103> rdfs:label "Where does Piccadilly start?" .
+<urn:QALD:id:103> <urn:class> <Place> .
+<urn:QALD:id:45> rdf:type <urn:question> .
+<urn:QALD:id:45> rdfs:label "Where did Abraham Lincoln die?" .
+<urn:QALD:id:45> <urn:class> <Place> .
+<urn:QALD:id:105> rdf:type <urn:question> .
+<urn:QALD:id:105> rdfs:label "Which countries have more than ten volcanoes?" .
+<urn:QALD:id:105> <urn:class> <Place> .
+<urn:QALD:id:25> rdf:type <urn:question> .
+<urn:QALD:id:25> rdfs:label "What is the longest river in China?" .
+<urn:QALD:id:25> <urn:class> <Place> .
+<urn:QALD:id:38> rdf:type <urn:question> .
+<urn:QALD:id:38> rdfs:label "Give me all Frisian islands that belong to the Netherlands." .
+<urn:QALD:id:38> <urn:class> <Place> .
+<urn:QALD:id:148> rdf:type <urn:question> .
+<urn:QALD:id:148> rdfs:label "What is the largest state in the United States?" .
+<urn:QALD:id:148> <urn:class> <Place> .
+<urn:QALD:id:29> rdf:type <urn:question> .
+<urn:QALD:id:29> rdfs:label "Which countries in the European Union adopted the Euro?" .
+<urn:QALD:id:29> <urn:class> <Place> .
+<urn:QALD:id:113> rdf:type <urn:question> .
+<urn:QALD:id:113> rdfs:label "Which German cities have more than 250000 inhabitants?" .
+<urn:QALD:id:113> <urn:class> <Place> .
+<urn:QALD:id:9> rdf:type <urn:question> .
+<urn:QALD:id:9> rdfs:label "In which city is the headquarter of Air China?" .
+<urn:QALD:id:9> <urn:class> <Place> .
+<urn:QALD:id:68> rdf:type <urn:question> .
+<urn:QALD:id:68> rdfs:label "Which country was Bill Gates born in?" .
+<urn:QALD:id:68> <urn:class> <Place> .
+<urn:QALD:id:149> rdf:type <urn:question> .
+<urn:QALD:id:149> rdfs:label "Which U.S. state has the highest population density?" .
+<urn:QALD:id:149> <urn:class> <Place> .
+<urn:QALD:id:86> rdf:type <urn:question> .
+<urn:QALD:id:86> rdfs:label "What is the highest mountain in Germany?" .
+<urn:QALD:id:86> <urn:class> <Place> .
+<urn:QALD:id:150> rdf:type <urn:question> .
+<urn:QALD:id:150> rdfs:label "In which city was the president of Montenegro born?" .
+<urn:QALD:id:150> <urn:class> <Place> .
+<urn:QALD:id:59> rdf:type <urn:question> .
+<urn:QALD:id:59> rdfs:label "Which space probes were sent into orbit around the sun?" .
+<urn:QALD:id:59> <urn:class> <Place> .
+<urn:QALD:id:197> rdf:type <urn:question> .
+<urn:QALD:id:197> rdfs:label "Which U.S. state has been admitted latest?" .
+<urn:QALD:id:197> <urn:class> <Place> .
+<urn:QALD:id:14> rdf:type <urn:question> .
+<urn:QALD:id:14> rdfs:label "Show me hiking trails in the Grand Canyon where there's no danger of flash floods." .
+<urn:QALD:id:14> <urn:class> <Place> .
+<urn:QALD:id:169> rdf:type <urn:question> .
+<urn:QALD:id:169> rdfs:label "Give me all libraries established before 1400." .
+<urn:QALD:id:169> <urn:class> <Place> .
+<urn:QALD:id:181> rdf:type <urn:question> .
+<urn:QALD:id:181> rdfs:label "Through which countries does the Yenisei river flow?" .
+<urn:QALD:id:181> <urn:class> <Place> .
+<urn:QALD:id:194> rdf:type <urn:question> .
+<urn:QALD:id:194> rdfs:label "Which U.S. state has the abbreviation MN?" .
+<urn:QALD:id:194> <urn:class> <Place> .
+<urn:QALD:id:81> rdf:type <urn:question> .
+<urn:QALD:id:81> rdfs:label "Butch Otter is the governor of which U.S. state?" .
+<urn:QALD:id:81> <urn:class> <Place> .
+<urn:QALD:id:27> rdf:type <urn:question> .
+<urn:QALD:id:27> rdfs:label "Which rivers flow into the North Sea?" .
+<urn:QALD:id:27> <urn:class> <Place> .
+<urn:QALD:id:141> rdf:type <urn:question> .
+<urn:QALD:id:141> rdfs:label "Which languages are spoken in Estonia?" .
+<urn:QALD:id:141> <urn:class> <Language> .
+<urn:QALD:id:131> rdf:type <urn:question> .
+<urn:QALD:id:131> rdfs:label "What languages are spoken in Pakistan?" .
+<urn:QALD:id:131> <urn:class> <Language> .
+<urn:QALD:id:139> rdf:type <urn:question> .
+<urn:QALD:id:139> rdfs:label "Which professional surfers were born in Australia?" .
+<urn:QALD:id:139> <urn:class> <Agent> .
+<urn:QALD:id:209> rdf:type <urn:question> .
+<urn:QALD:id:209> rdfs:label "Give me all taikonauts." .
+<urn:QALD:id:209> <urn:class> <Agent> .
+<urn:QALD:id:39> rdf:type <urn:question> .
+<urn:QALD:id:39> rdfs:label "Which poet wrote the most books?" .
+<urn:QALD:id:39> <urn:class> <Agent> .
+<urn:QALD:id:119> rdf:type <urn:question> .
+<urn:QALD:id:119> rdfs:label "Which instruments does Cat Stevens play?" .
+<urn:QALD:id:119> <urn:class> <Agent> .
+<urn:QALD:id:137> rdf:type <urn:question> .
+<urn:QALD:id:137> rdfs:label "Give me all Dutch parties." .
+<urn:QALD:id:137> <urn:class> <Agent> .
+<urn:QALD:id:66> rdf:type <urn:question> .
+<urn:QALD:id:66> rdfs:label "Which artists were born on the same date as Rachel Stevens?" .
+<urn:QALD:id:66> <urn:class> <Agent> .
+<urn:QALD:id:211> rdf:type <urn:question> .
+<urn:QALD:id:211> rdfs:label "Give me all American presidents of the last 20 years." .
+<urn:QALD:id:211> <urn:class> <Agent> .
+<urn:QALD:id:34> rdf:type <urn:question> .
+<urn:QALD:id:34> rdfs:label "Give me all female German chancellors." .
+<urn:QALD:id:34> <urn:class> <Agent> .
+<urn:QALD:id:84> rdf:type <urn:question> .
+<urn:QALD:id:84> rdfs:label "Which American presidents were in office during the Vietnam War?" .
+<urn:QALD:id:84> <urn:class> <Agent> .
+<urn:QALD:id:183> rdf:type <urn:question> .
+<urn:QALD:id:183> rdfs:label "Who was Tom Hanks married to?" .
+<urn:QALD:id:183> <urn:class> <Agent> .
+<urn:QALD:id:13> rdf:type <urn:question> .
+<urn:QALD:id:13> rdfs:label "Which politicians were married to a German?" .
+<urn:QALD:id:13> <urn:class> <Agent> .
+<urn:QALD:id:21> rdf:type <urn:question> .
+<urn:QALD:id:21> rdfs:label "Who created English Wikipedia?" .
+<urn:QALD:id:21> <urn:class> <Agent> .
+<urn:QALD:id:8> rdf:type <urn:question> .
+<urn:QALD:id:8> rdfs:label "Who founded Intel?" .
+<urn:QALD:id:8> <urn:class> <Agent> .
+<urn:QALD:id:129> rdf:type <urn:question> .
+<urn:QALD:id:129> rdfs:label "Who does the voice of Bart Simpson?" .
+<urn:QALD:id:129> <urn:class> <Agent> .
+<urn:QALD:id:132> rdf:type <urn:question> .
+<urn:QALD:id:132> rdfs:label "What is Elon Musk famous for?" .
+<urn:QALD:id:132> <urn:class> <Agent> .
+<urn:QALD:id:165> rdf:type <urn:question> .
+<urn:QALD:id:165> rdfs:label "What is the name of the university where Obama's wife studied?" .
+<urn:QALD:id:165> <urn:class> <Agent> .
+<urn:QALD:id:198> rdf:type <urn:question> .
+<urn:QALD:id:198> rdfs:label "Who was influenced by Socrates?" .
+<urn:QALD:id:198> <urn:class> <Agent> .
+<urn:QALD:id:107> rdf:type <urn:question> .
+<urn:QALD:id:107> rdfs:label "Who was the father of Queen Elizabeth II?" .
+<urn:QALD:id:107> <urn:class> <Agent> .
+<urn:QALD:id:160> rdf:type <urn:question> .
+<urn:QALD:id:160> rdfs:label "Who wrote Harry Potter?" .
+<urn:QALD:id:160> <urn:class> <Agent> .
+<urn:QALD:id:212> rdf:type <urn:question> .
+<urn:QALD:id:212> rdfs:label "Which companies work in the aerospace industry as well as in medicine?" .
+<urn:QALD:id:212> <urn:class> <Agent> .
+<urn:QALD:id:95> rdf:type <urn:question> .
+<urn:QALD:id:95> rdfs:label "Who is the youngest player in the Premier League?" .
+<urn:QALD:id:95> <urn:class> <Agent> .
+<urn:QALD:id:158> rdf:type <urn:question> .
+<urn:QALD:id:158> rdfs:label "Give me all writers that won the Nobel Prize in literature." .
+<urn:QALD:id:158> <urn:class> <Agent> .
+<urn:QALD:id:207> rdf:type <urn:question> .
+<urn:QALD:id:207> rdfs:label "Which daughters of British earls died at the same place they were born at?" .
+<urn:QALD:id:207> <urn:class> <Agent> .
+<urn:QALD:id:145> rdf:type <urn:question> .
+<urn:QALD:id:145> rdfs:label "Who owns Aldi?" .
+<urn:QALD:id:145> <urn:class> <Agent> .
+<urn:QALD:id:19> rdf:type <urn:question> .
+<urn:QALD:id:19> rdfs:label "Who became president after JFK died?" .
+<urn:QALD:id:19> <urn:class> <Agent> .
+<urn:QALD:id:210> rdf:type <urn:question> .
+<urn:QALD:id:210> rdfs:label "Which monarchs of the United Kingdom were married to a German?" .
+<urn:QALD:id:210> <urn:class> <Agent> .
+<urn:QALD:id:164> rdf:type <urn:question> .
+<urn:QALD:id:164> rdfs:label "Who was on the Apollo 11 mission?" .
+<urn:QALD:id:164> <urn:class> <Agent> .
+<urn:QALD:id:120> rdf:type <urn:question> .
+<urn:QALD:id:120> rdfs:label "Who is the daughter of Bill Clinton married to?" .
+<urn:QALD:id:120> <urn:class> <Agent> .
+<urn:QALD:id:167> rdf:type <urn:question> .
+<urn:QALD:id:167> rdfs:label "Which subsidiary of TUI Travel serves both Glasgow and Dublin?" .
+<urn:QALD:id:167> <urn:class> <Agent> .
+<urn:QALD:id:187> rdf:type <urn:question> .
+<urn:QALD:id:187> rdfs:label "Who is the husband of Amanda Palmer?" .
+<urn:QALD:id:187> <urn:class> <Agent> .
+<urn:QALD:id:168> rdf:type <urn:question> .
+<urn:QALD:id:168> rdfs:label "Which actors play in Big Bang Theory?" .
+<urn:QALD:id:168> <urn:class> <Agent> .
+<urn:QALD:id:98> rdf:type <urn:question> .
+<urn:QALD:id:98> rdfs:label "Who killed Caesar?" .
+<urn:QALD:id:98> <urn:class> <Agent> .
+<urn:QALD:id:40> rdf:type <urn:question> .
+<urn:QALD:id:40> rdfs:label "Who were the parents of Queen Victoria?" .
+<urn:QALD:id:40> <urn:class> <Agent> .
+<urn:QALD:id:190> rdf:type <urn:question> .
+<urn:QALD:id:190> rdfs:label "Who are the parents of the wife of Juan Carlos I?" .
+<urn:QALD:id:190> <urn:class> <Agent> .
+<urn:QALD:id:214> rdf:type <urn:question> .
+<urn:QALD:id:214> rdfs:label "Give me all professional skateboarders from Sweden." .
+<urn:QALD:id:214> <urn:class> <Agent> .
+<urn:QALD:id:128> rdf:type <urn:question> .
+<urn:QALD:id:128> rdfs:label "Who is the author of WikiLeaks?" .
+<urn:QALD:id:128> <urn:class> <Agent> .
+<urn:QALD:id:83> rdf:type <urn:question> .
+<urn:QALD:id:83> rdfs:label "Give me all gangsters from the prohibition era." .
+<urn:QALD:id:83> <urn:class> <Agent> .
+<urn:QALD:id:96> rdf:type <urn:question> .
+<urn:QALD:id:96> rdfs:label "Which professional surfers were born on the Philippines?" .
+<urn:QALD:id:96> <urn:class> <Agent> .
+<urn:QALD:id:157> rdf:type <urn:question> .
+<urn:QALD:id:157> rdfs:label "Give me English actors starring in Lovesick." .
+<urn:QALD:id:157> <urn:class> <Agent> .
+<urn:QALD:id:116> rdf:type <urn:question> .
+<urn:QALD:id:116> rdfs:label "Who was called Rodzilla?" .
+<urn:QALD:id:116> <urn:class> <Agent> .
+<urn:QALD:id:166> rdf:type <urn:question> .
+<urn:QALD:id:166> rdfs:label "Which computer scientist won an oscar?" .
+<urn:QALD:id:166> <urn:class> <Agent> .
+<urn:QALD:id:63> rdf:type <urn:question> .
+<urn:QALD:id:63> rdfs:label "Who was called Scarface?" .
+<urn:QALD:id:63> <urn:class> <Agent> .
+<urn:QALD:id:152> rdf:type <urn:question> .
+<urn:QALD:id:152> rdfs:label "Which beer brewing companies are located in North-Rhine Westphalia?" .
+<urn:QALD:id:152> <urn:class> <Agent> .
+<urn:QALD:id:122> rdf:type <urn:question> .
+<urn:QALD:id:122> rdfs:label "Who was the wife of President Lincoln?" .
+<urn:QALD:id:122> <urn:class> <Agent> .
+<urn:QALD:id:174> rdf:type <urn:question> .
+<urn:QALD:id:174> rdfs:label "Who is the novelist of the work a song of ice and fire?" .
+<urn:QALD:id:174> <urn:class> <Agent> .
+<urn:QALD:id:104> rdf:type <urn:question> .
+<urn:QALD:id:104> rdfs:label "Who is the daughter of Robert Kennedy married to?" .
+<urn:QALD:id:104> <urn:class> <Agent> .
+<urn:QALD:id:163> rdf:type <urn:question> .
+<urn:QALD:id:163> rdfs:label "Give me all chemical elements." .
+<urn:QALD:id:163> <urn:class> <ChemicalSubstance> .
+<urn:QALD:id:206> rdf:type <urn:question> .
+<urn:QALD:id:206> rdfs:label "What was the name of the famous battle in 1836 in San Antonio?" .
+<urn:QALD:id:206> <urn:class> <Event> .
+<urn:QALD:id:7> rdf:type <urn:question> .
+<urn:QALD:id:7> rdfs:label "Give me all cars that are produced in Germany." .
+<urn:QALD:id:7> <urn:class> <MeanOfTransportation> .
+<urn:QALD:id:179> rdf:type <urn:question> .
+<urn:QALD:id:179> rdfs:label "What were the names of the three ships by Columbus?" .
+<urn:QALD:id:179> <urn:class> <MeanOfTransportation> .
+<urn:QALD:id:182> rdf:type <urn:question> .
+<urn:QALD:id:182> rdfs:label "Which animals are critically endangered?" .
+<urn:QALD:id:182> <urn:class> <Species> .
+<urn:QALD:id:123> rdf:type <urn:question> .
+<urn:QALD:id:123> rdfs:label "Give me all animals that are extinct." .
+<urn:QALD:id:123> <urn:class> <Species> .
+<urn:QALD:id:80> rdf:type <urn:question> .
+<urn:QALD:id:80> rdfs:label "Give me a list of all critically endangered birds." .
+<urn:QALD:id:80> <urn:class> <Species> .
+<urn:QALD:id:87> rdf:type <urn:question> .
+<urn:QALD:id:87> rdfs:label "Which book has the most pages?" .
+<urn:QALD:id:87> <urn:class> <Work> .
+<urn:QALD:id:154> rdf:type <urn:question> .
+<urn:QALD:id:154> rdfs:label "Which books were written by Danielle Steel?" .
+<urn:QALD:id:154> <urn:class> <Work> .
+<urn:QALD:id:213> rdf:type <urn:question> .
+<urn:QALD:id:213> rdfs:label "Show me all Czech movies." .
+<urn:QALD:id:213> <urn:class> <Work> .
+<urn:QALD:id:199> rdf:type <urn:question> .
+<urn:QALD:id:199> rdfs:label "Give me all Argentine films." .
+<urn:QALD:id:199> <urn:class> <Work> .
+<urn:QALD:id:23> rdf:type <urn:question> .
+<urn:QALD:id:23> rdfs:label "Which software has been published by Mean Hamster Software?" .
+<urn:QALD:id:23> <urn:class> <Work> .
+<urn:QALD:id:52> rdf:type <urn:question> .
+<urn:QALD:id:52> rdfs:label "Give me all movies with Tom Cruise." .
+<urn:QALD:id:52> <urn:class> <Work> .
+<urn:QALD:id:110> rdf:type <urn:question> .
+<urn:QALD:id:110> rdfs:label "Which movies did Kurosawa direct?" .
+<urn:QALD:id:110> <urn:class> <Work> .
+<urn:QALD:id:56> rdf:type <urn:question> .
+<urn:QALD:id:56> rdfs:label "How many seats does the home stadium of FC Porto have?" .
+<urn:QALD:id:56> <urn:class> <Number> .
+<urn:QALD:id:125> rdf:type <urn:question> .
+<urn:QALD:id:125> rdfs:label "How many years was the Ford Model T manufactured?" .
+<urn:QALD:id:125> <urn:class> <Number> .
+<urn:QALD:id:20> rdf:type <urn:question> .
+<urn:QALD:id:20> rdfs:label "How many calories does a baguette have?" .
+<urn:QALD:id:20> <urn:class> <Number> .
+<urn:QALD:id:24> rdf:type <urn:question> .
+<urn:QALD:id:24> rdfs:label "How many emperors did China have?" .
+<urn:QALD:id:24> <urn:class> <Number> .
+<urn:QALD:id:115> rdf:type <urn:question> .
+<urn:QALD:id:115> rdfs:label "How many rivers and lakes are in South Carolina?" .
+<urn:QALD:id:115> <urn:class> <Number> .
+<urn:QALD:id:73> rdf:type <urn:question> .
+<urn:QALD:id:73> rdfs:label "How many gold medals did Michael Phelps win at the 2008 Olympics?" .
+<urn:QALD:id:73> <urn:class> <Number> .
+<urn:QALD:id:136> rdf:type <urn:question> .
+<urn:QALD:id:136> rdfs:label "How many moons does Mars have?" .
+<urn:QALD:id:136> <urn:class> <Number> .
+<urn:QALD:id:22> rdf:type <urn:question> .
+<urn:QALD:id:22> rdfs:label "How many grand-children did Jacques Cousteau have?" .
+<urn:QALD:id:22> <urn:class> <Number> .
+<urn:QALD:id:178> rdf:type <urn:question> .
+<urn:QALD:id:178> rdfs:label "How many James Bond movies do exist?" .
+<urn:QALD:id:178> <urn:class> <Number> .
+<urn:QALD:id:1> rdf:type <urn:question> .
+<urn:QALD:id:1> rdfs:label "What is the revenue of IBM?" .
+<urn:QALD:id:1> <urn:class> <Number> .
+<urn:QALD:id:10> rdf:type <urn:question> .
+<urn:QALD:id:10> rdfs:label "How many students does the Free University of Amsterdam have?" .
+<urn:QALD:id:10> <urn:class> <Number> .
+<urn:QALD:id:15> rdf:type <urn:question> .
+<urn:QALD:id:15> rdfs:label "How short is the shortest active NBA player?" .
+<urn:QALD:id:15> <urn:class> <Number> .
+<urn:QALD:id:101> rdf:type <urn:question> .
+<urn:QALD:id:101> rdfs:label "How many companies were founded by the founder of Facebook?" .
+<urn:QALD:id:101> <urn:class> <Number> .
+<urn:QALD:id:88> rdf:type <urn:question> .
+<urn:QALD:id:88> rdfs:label "What is the wavelength of Indigo?" .
+<urn:QALD:id:88> <urn:class> <Number> .
+<urn:QALD:id:162> rdf:type <urn:question> .
+<urn:QALD:id:162> rdfs:label "How deep is Lake Chiemsee?" .
+<urn:QALD:id:162> <urn:class> <Number> .
+<urn:QALD:id:114> rdf:type <urn:question> .
+<urn:QALD:id:114> rdfs:label "How big is the earth's diameter?" .
+<urn:QALD:id:114> <urn:class> <Number> .
+<urn:QALD:id:111> rdf:type <urn:question> .
+<urn:QALD:id:111> rdfs:label "How many awards has Bertrand Russell?" .
+<urn:QALD:id:111> <urn:class> <Number> .
+<urn:QALD:id:140> rdf:type <urn:question> .
+<urn:QALD:id:140> rdfs:label "How many scientists graduated from an Ivy League university?" .
+<urn:QALD:id:140> <urn:class> <Number> .
+<urn:QALD:id:6> rdf:type <urn:question> .
+<urn:QALD:id:6> rdfs:label "Are Taiko some kind of Japanese musical instrument?" .
+<urn:QALD:id:6> <urn:class> <Boolean> .
+<urn:QALD:id:92> rdf:type <urn:question> .
+<urn:QALD:id:92> rdfs:label "Is the wife of President Obama called Michelle?" .
+<urn:QALD:id:92> <urn:class> <Boolean> .
+<urn:QALD:id:117> rdf:type <urn:question> .
+<urn:QALD:id:117> rdfs:label "Is Pamela Anderson a vegan?" .
+<urn:QALD:id:117> <urn:class> <Boolean> .
+<urn:QALD:id:79> rdf:type <urn:question> .
+<urn:QALD:id:79> rdfs:label "Are there any castles in the United States?" .
+<urn:QALD:id:79> <urn:class> <Boolean> .
+<urn:QALD:id:82> rdf:type <urn:question> .
+<urn:QALD:id:82> rdfs:label "When was Jack Wolfskin founded?" .
+<urn:QALD:id:82> <urn:class> <DateTime> .
+<urn:QALD:id:51> rdf:type <urn:question> .
+<urn:QALD:id:51> rdfs:label "When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?" .
+<urn:QALD:id:51> <urn:class> <DateTime> .
+<urn:QALD:id:102> rdf:type <urn:question> .
+<urn:QALD:id:102> rdfs:label "When did Dracula's creator die?" .
+<urn:QALD:id:102> <urn:class> <DateTime> .
+<urn:QALD:id:94> rdf:type <urn:question> .
+<urn:QALD:id:94> rdfs:label "When did princess Diana die?" .
+<urn:QALD:id:94> <urn:class> <DateTime> .
+<urn:QALD:id:78> rdf:type <urn:question> .
+<urn:QALD:id:78> rdfs:label "When was the De Beers company founded?" .
+<urn:QALD:id:78> <urn:class> <DateTime> .
+<urn:QALD:id:171> rdf:type <urn:question> .
+<urn:QALD:id:171> rdfs:label "When did the Boston Tea Party take place?" .
+<urn:QALD:id:171> <urn:class> <DateTime> .
+<urn:QALD:id:108> rdf:type <urn:question> .
+<urn:QALD:id:108> rdfs:label "When did Paraguay proclaim its independence?" .
+<urn:QALD:id:108> <urn:class> <DateTime> .
+<urn:QALD:id:201> rdf:type <urn:question> .
+<urn:QALD:id:201> rdfs:label "What is the founding year of the brewery that produces Pilsner Urquell?" .
+<urn:QALD:id:201> <urn:class> <DateTime> .
+<urn:QALD:id:135> rdf:type <urn:question> .
+<urn:QALD:id:135> rdfs:label "When did Michael Jackson die?" .
+<urn:QALD:id:135> <urn:class> <DateTime> .
+<urn:QALD:id:175> rdf:type <urn:question> .
+<urn:QALD:id:175> rdfs:label "When did Muhammad die?" .
+<urn:QALD:id:175> <urn:class> <DateTime> .
+<urn:QALD:id:173> rdf:type <urn:question> .
+<urn:QALD:id:173> rdfs:label "When did Finland join the EU?" .
+<urn:QALD:id:173> <urn:class> <DateTime> .
+<urn:QALD:id:124> rdf:type <urn:question> .
+<urn:QALD:id:124> rdfs:label "When was Carlo Giuliani shot?" .
+<urn:QALD:id:124> <urn:class> <DateTime> .
+<urn:QALD:id:60> rdf:type <urn:question> .
+<urn:QALD:id:60> rdfs:label "Who is the governor of Texas?" .
+<urn:QALD:id:60> <urn:class> <String> .
+<urn:QALD:id:31> rdf:type <urn:question> .
+<urn:QALD:id:31> rdfs:label "Who is the mayor of Berlin?" .
+<urn:QALD:id:31> <urn:class> <String> .
+<urn:QALD:id:32> rdf:type <urn:question> .
+<urn:QALD:id:32> rdfs:label "What is Angela Merkel’s birth name?" .
+<urn:QALD:id:32> <urn:class> <String> .
+<urn:QALD:id:64> rdf:type <urn:question> .
+<urn:QALD:id:64> rdfs:label "What is the profession of Frank Herbert?" .
+<urn:QALD:id:64> <urn:class> <String> .
+<urn:QALD:id:37> rdf:type <urn:question> .
+<urn:QALD:id:37> rdfs:label "What are the nicknames of San Francisco?" .
+<urn:QALD:id:37> <urn:class> <String> .
+<urn:QALD:id:155> rdf:type <urn:question> .
+<urn:QALD:id:155> rdfs:label "What is the nick name of Baghdad?" .
+<urn:QALD:id:155> <urn:class> <String> .
+<urn:QALD:id:133> rdf:type <urn:question> .
+<urn:QALD:id:133> rdfs:label "What are the names of the Teenage Mutant Ninja Turtles?" .
+<urn:QALD:id:133> <urn:class> <String> .
+<urn:QALD:id:62> rdf:type <urn:question> .
+<urn:QALD:id:62> rdfs:label "What is the highest place of Karakoram?" .
+<urn:QALD:id:62> <urn:class> <String> .
+<urn:QALD:id:151> rdf:type <urn:question> .
+<urn:QALD:id:151> rdfs:label "Give me all B-sides of the Ramones." .
+<urn:QALD:id:151> <urn:class> <String> .
+<urn:QALD:id:203> rdf:type <urn:question> .
+<urn:QALD:id:203> rdfs:label "How did Michael Jackson die?" .
+<urn:QALD:id:203> <urn:class> <String> .
+<urn:QALD:id:196> rdf:type <urn:question> .
+<urn:QALD:id:196> rdfs:label "Which classes does the Millepede belong to?" .
+<urn:QALD:id:196> <urn:class> <String> .
+<urn:QALD:id:189> rdf:type <urn:question> .
+<urn:QALD:id:189> rdfs:label "In which studio did the Beatles record their first album?" .
+<urn:QALD:id:189> <urn:class> <String> .
+<urn:QALD:id:134> rdf:type <urn:question> .
+<urn:QALD:id:134> rdfs:label "What is Batman's real name?" .
+<urn:QALD:id:134> <urn:class> <String> .
+<urn:QALD:id:143> rdf:type <urn:question> .
+<urn:QALD:id:143> rdfs:label "What is the area code of Berlin?" .
+<urn:QALD:id:143> <urn:class> <String> .
