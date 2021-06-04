@@ -26,6 +26,10 @@ The experiments were executed on a server with the following characteristics: `G
 Average training time in seconds is 2045, 2130, and 1090 -- for each model respectively. 
 Average inference time in seconds is 17, 19, and 10 -- for each model respectively.
 
+## Web Service
+
+TBD
+
 ## Cite
 
 TBD
