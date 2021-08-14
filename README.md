@@ -28,8 +28,20 @@ Average inference time in seconds is 17, 19, and 10 -- for each model respective
 
 ## Web Service
 
-TBD
+https://webengineering.ins.hs-anhalt.de:41009/eat-classification
 
 ## Cite
 
-TBD
+```bibtex
+@InProceedings{10.1007/978-3-030-82147-0_16,
+author="Perevalov, Aleksandr
+and Both, Andreas",
+title="Improving Answer Type Classification Quality Through Combined Question Answering Datasets",
+booktitle="Knowledge Science, Engineering and Management ",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="191--204",
+isbn="978-3-030-82147-0"
+}
+```
