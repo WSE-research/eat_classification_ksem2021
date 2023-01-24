@@ -13,7 +13,7 @@ Additionally, an embedding-based approach for automatic data labeling error dete
 
 ## Quick Links
 
-* Full Paper (TBD)
+* [Full Paper](https://www.researchgate.net/profile/Aleksandr-Perevalov/publication/353753612_Improving_Answer_Type_Classification_Quality_Through_Combined_Question_Answering_Datasets/links/62a99749c660ab61f87e1f8c/Improving-Answer-Type-Classification-Quality-Through-Combined-Question-Answering-Datasets.pdf)
 * [Derived Datasets for Expected Answer Type classification](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/UnifiedSubclassDBpedia)
 * [Experimental Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/experimental_results)
 * [Labeling Error Analysis Results](https://github.com/Perevalov/eat_classification_ksem2021/tree/main/data/error_analysis)
